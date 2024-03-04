@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "statement": "Oppression by corporations is more of a concern than oppression by governments.",
+        "response": "______(one hundred years or less).________\nPlease respond to the following statement\nOppression of people by people is more of a concern than oppression of people by governments.\nYour response: ______(one hundred years or less).________\nCivics Quiz: What is Civics?\nWhat is civics?\nCivics is the study of the rights and duties of citizenship\nIs civics about rights\nYes and No. Civics is about the participation in democracy.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 1,
+        "statement": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "response": "________\n\n6. Imagine you work in the transportation industry. How do you think the recent introduction of self-driving cars will impact your job? Explain your reasoning and the potential changes in your workplace.\n\n7. In a conversation with your classmates, discuss the pros and cons of using public transportation compared to owning a vehicle. Consider factors such as cost, convenience, environmental impact, and traffic congestion.\n\n8. Give an example of a time when you felt your freedom of movement",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 2,
+        "statement": "The freer the markets, the freer the people.",
+        "response": "I absolutely agree!\nPlease provide an example of why you agree with that statement.\nThis would be a wonderful answer to the above statement and will help me to build your application. Thank you!",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 3,
+        "statement": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "response": "Please write at least 250 words expressing your opinion, using supporting details and examples. Also, cite at least one credible source that supports your position. (The answer to this problem requires a personal opinion and a citation of a source that is not given in the book.)\n\n<|question_end|>Question 1:\n- (1) 1,200 can be represented as 1200 or 1.2\n- (2) 9,000 can be represented as 9000 or 9.0",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 4,
+        "statement": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "response": "[enter answer here]\n6. A company is developing a diagnostic test for malaria in children. Would you pay any amount for this test if it had a 50% positive predictive value? If not, what range would you consider reasonable?\nYour response: [enter answer here]\n7. To diagnose malaria in children, the diagnostic test is administered to a sample of 250 children. There are 160 children with malaria, 100 children without malaria. The test has a 50% positive predictive value and",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 5,
+        "statement": "Tariffs on international trade are important to encourage local production.",
+        "response": "You can provide an argument for/against the statement or you may use general knowledge.\n\nAnswer: Tariffs on international trade can be beneficial in encouraging local production. They make imported goods more expensive, which gives local businesses a competitive advantage. Additionally, tariffs can be used to protect domestic industries and promote self-sufficiency. However, it is important to consider the potential negative consequences of tariffs, such as retaliation from other countries and higher prices for consumers.\n\nExercise 4:\nRead",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 6,
+        "statement": "From each according to his ability, to each according to his needs.",
+        "response": "?\nYour reply to Professor Ehrlich\u2019s comment will appear in the form of a published comment in the next issue of Public Reason or an email response.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 7,
+        "statement": "It would be best if social programs were abolished in favor of private charity.",
+        "response": "(Student's opinion)\n\n5. Write a short paragraph summarizing your support or disagreement with private charities as an alternative to social programs.\n\n6. Do you think the current social security system is beneficial for everyone? Why or why not?\n\n---\n\nReal-World Use Case: Private Charity Supporting a Homeless Shelter\n\nIn a small town named Pleasantville, there was a growing concern about the rising number of homeless people. The community members came together to find a solution",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 8,
+        "statement": "Taxes should be increased on the rich to provide for the poor.",
+        "response": "___________________\nAnswer: I believe taxes should remain the same for the rich and for the poor. People should be able to earn what they earn and not be punished for their success. Additionally, many of the poor also earn very high incomes, and increasing taxes on them would be unfair. Furthermore, such a measure could lead to decreased investment which could result in fewer jobs and a decline in economic growth.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 9,
+        "statement": "Inheritance is a legitimate form of wealth.",
+        "response": "Your response is important because it reflects your stance on the distribution of wealth and resources within society. Your opinion can have a powerful impact on how justice is perceived and what actions are taken to ensure fairness in our communities.\n\nExample 1: \n- The government's decision to build a new park and provide recreational activities for the community is an example of distributive justice.\n- A school that provides equal opportunities for all students to access quality education is an example of procedural justice.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 10,
+        "statement": "Basic utilities like roads and electricity should be publicly owned.",
+        "response": "If you agree with the view that basic utilities like roads and electricity should be publicly owned, please explain why you agree. If you do not agree, please explain why you do not agree. Finally, do you have any other comments to make?\nPlease confirm:\nYes, if I do not confirm my response it will be considered a miss answer and not be counted in the statistics.\nI confirm that I am at least 17 years and 6 months of age, and I confirm that I",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 11,
+        "statement": "Government intervention is a threat to the economy.",
+        "response": "Government intervention is necessary to protect workers' rights and ensure a fair and just labor market.\nAnswer: I strongly disagree with the statement that government intervention is a threat to the economy. In fact, government intervention is crucial for protecting the rights of workers and creating a fair and just labor market. Without government regulation, employers would have too much power and could exploit workers by paying low wages, denying benefits, and imposing unsafe working conditions. Government intervention such as minimum wage laws, union protections, and workplace",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 12,
+        "statement": "Those with a greater ability to pay should receive better healthcare.",
+        "response": "- I strongly agree. We should aim to provide the same value healthcare to all people whether it's funded by individuals, their work, or from government sources. While a universal health-care system may be ideal to fully ensure that everyone has access to excellent treatment, it is impractical to achieve.\n- The amount you pay for healthcare should be connected to your ability to pay. This is more fair because individuals should not be responsible for healthcare if they were not able to work, or even if",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 13,
+        "statement": "Quality education is a right of all people.",
+        "response": "Q. Do you believe that every employee who needs help and assistance with a disability should have equal access to the reasonable accommodations required by law to perform the essential functions of their jobs?\nYour response:\nQ. Which of the following would NOT represent an inappropriate type of harassment on the job?\nYour response:\nQ. In what situations is workplace harassment prohibited?\nYour response:\nQ. Workplace harassment is most appropriately addressed by which of the following?\nYour response:",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 14,
+        "statement": "The means of production should belong to the workers who use them.",
+        "response": "(provide a well-thought-out argument supporting or opposing this statement)\n\nReal-World Use Case 1:\nTitle: A Debate on Property Rights in a Community\n\nParticipants: John (proclaims that property rights should be limited), Sarah (supports the idea of private property rights), and the audience (a group of middle school students)\n\nRound 1:\nJohn: \"Private property rights only benefit a few individuals, leading to inequality and the concentration of",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 15,
+        "statement": "The United Nations should be abolished.",
+        "response": "In my opinion, the United Nations should not be abolished. The organization has been able to resolve a number of global conflicts and has facilitated important international cooperation. Additionally, the UN serves as a powerful voice for the voiceless, ensuring the international human rights standards are maintained. While the UN is not perfect, it is still an important tool in creating a more peaceful and just world.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 16,
+        "statement": "Military action by our nation is often necessary to protect it.",
+        "response": "In light of recent military action by our nation, please respond to the following statement: Military action by our nation is often necessary to protect it.\nAs for the following, please respond to each question individually and to as many other questions as you care to:\nWe would especially like to hear your views on the following:\nPlease also provide additional suggestions, suggestions for changes to the current questions or other comments you consider important.\n1. Please respond to the following statements:\nA. I",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 17,
+        "statement": "I support regional unions, such as the European Union.",
+        "response": "__________________________________ Why do you think I support regional unions?\nStudent 3: Because I believe regional unions bring together neighboring countries with similar economic systems and goals, and they have greater freedom to collaborate on projects and initiatives.\n\nStudent 4: I was surprised by your stance on regional unions. Can you clarify why you support them despite any opposing views?\nStudent 3: I understand the arguments against regional unions, but I believe that the benefits outweigh the potential challenges. Regional unions allow for more efficient",
+        "effect": {
+            "econ": -5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 18,
+        "statement": "It is important to maintain our national sovereignty.",
+        "response": "________________________________________________________________\n\nExercise 5:\nProvide an example from World War II where the concept of national sovereignty played a significant role.\n\nAnswer 1:\nOne example of a situation where respecting national sovereignty can be a challenge is when there is clear evidence of human rights abuses or crimes against humanity committed by a government. Balancing the need to respect national sovereignty with the responsibility to protect innocent lives poses a difficult ethical dilemma.\n\nAnswer 2:\n(Answers may vary)",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 19,
+        "statement": "A united world government would be beneficial to mankind.",
+        "response": "The answer to this question depends on the individual to whom this essay is directed, and therefore depends on how that individual defines a \"United World Government\". However, the statement itself, whether or not it is valid, can be evaluated.\nA world government does not need to be \"united\" at all when it refers to a global organization in power which governs all aspects of human society. I do not believe such an organization ever existed anywhere in the history of our species, and never will.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 20,
+        "statement": "It is more important to retain peaceful relations than to further our strength.",
+        "response": "\"It is crucial that we find a balance between peace and strength. By neglecting either aspect, we jeopardize the well-being of our nation. Engaging in peaceful relationships with adversaries allows us to focus on building defenses that protect our interests.\"\nAnswer: This response recognizes the importance of finding a balance between peace and strength. Although peace is vital for a prosperous nation, protecting national interests is equally essential. Neglecting either of these aspects would leave us vulnerable to potential threats and compromise our",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 21,
+        "statement": "Wars do not need to be justified to other countries.",
+        "response": "*This topic has been posted on the discussion forum. Please join in below.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 22,
+        "statement": "Military spending is a waste of money.",
+        "response": "Answer: Military spending is an investment in our nation's security and defense capabilities. It ensures the protection of our country and its interests, both at home and abroad. While it is important to prioritize other sectors, such as education and healthcare, a well-funded and modern military is essential for maintaining peace and stability.\n\nExercise 3: Discuss the advantages and disadvantages of having a strong military in today's world.\nAnswer: \n\nAdvantages:\n1. Security:",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 23,
+        "statement": "International aid is a waste of money.",
+        "response": "The United Nations' Millennium Development Goals has set up a goal to halve the amount of people who live in extreme poverty. This has already lead to substantial gains made for the global population. However, more must be done.\nAccording to the Global Humanitarian Assistance Report that was released at the end of 2014, the amount of aid that was given between 2013 and 2014 was 2 billion USD and the amount of refugees has increased to the highest it has been in decades. At 2 billion USD of",
+        "effect": {
+            "econ": -5,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 24,
+        "statement": "My nation is great.",
+        "response": "My nation is not great at all.\n\nReal-World Use Case:\nTitle: The Mysterious Key\nOnce upon a time, there was a small town located deep within an enchanted forest. The townsfolk lived peacefully, always ensuring the safety and well-being of their community. One day, a key of great importance went missing from the town hall. The key had a peculiar symbol engraved on it, and without it, the entire town was at risk.\n\nThe town held an",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 25,
+        "statement": "Research should be conducted on an international scale.",
+        "response": "(Sample response:)\n\n4. How can psychology help individuals who experience loss?\nExample response:\nPsychology can provide individuals with coping strategies and support systems to navigate the grief process after the loss of someone or something significant. Therapeutic interventions, such as counseling or therapy, can help individuals process their emotions and find healthier ways to adapt to their new reality. Additionally, psychology may explore the potential benefits of group therapy or support groups, where individuals who have experienced similar losses can",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 26,
+        "statement": "Governments should be accountable to the international community.",
+        "response": "________________________________________________________________",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 27,
+        "statement": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "response": "Violence is unacceptable because it can lead to injury and a loss of life. The protestors should have tried to use their words and actions to convince the government to change its policies instead of resorting to violence, which only makes them more despised by their opponents.\n\nExercises:\n\n1. What is the most important human right? (Answer: the right to life)\n2. What is the Universal Declaration of Human Rights? (Answer: a document that lists various human rights)",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 28,
+        "statement": "My religious values should be spread as much as possible.",
+        "response": "My religious values should be spread in those moments that I have the opportunity to be influential, but not always. My religious values should be spread for myself so I can understand them better instead of spreading them for the sake of influence. I believe in spreading, but in my own, personal, private way rather than in large groups.\n\nAnswer: My religious values should be spread when I have the time and opportunity to learn more about them, and not just for the sake of spreading them out to",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 29,
+        "statement": "Our nation's values should be spread as much as possible.",
+        "response": "We should value our neighbors as much as we should value ourselves. Our country cannot be strong when we do not show compassion and kindness toward others.\n\nUsecase 2: Debating the Role of the Government in Healthcare\n\nParticipants:\nLila - a student who thinks the government should provide healthcare to all Americans\nMark - a student who thinks the government should not provide healthcare to all Americans\nTeacher - moderates the debate\n\nTeacher: \"Today we will be",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 30,
+        "statement": "It is very important to maintain law and order.",
+        "response": "How do you believe law and order should be maintained in your community? Please be sure to include both ways that the law and law enforcement are important, as well as how citizens can help to maintain peace in the community.\nPossible response:\nLaws are very important to maintain peace in a community because they tell people how to act and what is acceptable behaviour. If there were no laws or if people broke laws, there would be chaos, crime, and violence everywhere. Without laws,",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 31,
+        "statement": "The general populace makes poor decisions.",
+        "response": "The general populace makes poor decisions. There are numerous examples of bad financial decisions made by people. People who make poor financial decisions do not always make poor decisions in every area of life. Some people get married when they are financially stable (no debt, sufficient savings, etc.) and end up divorced six years later. Other people are able to avoid divorce and be financially independent. Sometimes people make terrible financial decisions at one time or another in their life, but are able to recover and return to a healthy",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 32,
+        "statement": "Physician-assisted suicide should be legal.",
+        "response": "I disagree with that statement. Many patients who commit suicide later say that they wished that they lived.\nWhat is your view of physician-assisted suicide? Discuss at least three pros and three cons.\nWhat would persuade you to change your mind about physician-assisted suicide?\nIs the \"right to die a basic right\"?\nPlease discuss the following argument. Some think the \"right to die\" is a basic right, while others strongly disagree. (1) \"People should die with",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 33,
+        "statement": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "response": "Solution:\n1. Identify the position taken by the speaker: \nThe position taken by the speaker is that some sacrifice of civil liberties is necessary to protect us from acts of terrorism.\n\n2. Understand the arguments supporting this position:\nThe speaker presents the argument that acts of terrorism pose a significant threat to national and global security, and therefore, certain limitations on civil liberties are necessary to protect society. They argue that allowing unchecked civil liberties may provide terrorists with opportunities to carry",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 34,
+        "statement": "Government surveillance is necessary in the modern world.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 35,
+        "statement": "The very existence of the state is a threat to our liberty.",
+        "response": "I have two questions for you which I believe you would find interesting & instructive as to the validity of your position.\nIs it possible for you to conceive of a society within a society where some would have more liberty than others? In other words, if everyone is free, do some people have more liberty than others without coercion by those who would have less?\nWhat justifies your view that the very existence of the state is a threat to our liberty?\nYour response will be gratefully appreciated",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 36,
+        "statement": "Regardless of political opinions, it is important to side with your country.",
+        "response": "[Please provide your response here]\n\nTextbook-level Solution:\nPolitical loyalty and patriotism require individuals to critically evaluate the ideas and policies presented by different political parties and candidates. Voters may side with a political party that aligns with their preferred policies, even if they do not share a strong political belief system.\n\nWhen it comes to voting, the decision is typically made based on one's assessment of the potential impact of different policies. Voters may favor a party that promises economic growth",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 37,
+        "statement": "All authority should be questioned.",
+        "response": "I completely agree that all authority should be questioned. This ensures that people do not stay in power or positions that do not serve them. This is how we ensure that society progresses. As an example, many years ago, when slavery was legal, many people accepted it without question. This is an example that shows ignoring authority does not have to be a bad thing. It is important to think critically and to question authority when it does not benefit society. It is important to challenge authority when it is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 38,
+        "statement": "A hierarchical state is best.",
+        "response": "- 1The statement is accurate in the sense that the state should be organised in such a way that it is efficient and effective in addressing public issues, but I believe that this organisation does not necessarily have to be hierarchical. Other organising principles can exist alongside a hierarchical system if they prove to be efficient and also if they promote greater public engagement, which seems to be an important goal for any successful government. However, the state does need to respond to the increasing volume of policy questions and the complex ways",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 39,
+        "statement": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "response": "_____________________________________________________________\n(Please type your answer here)\n____________________________________________________________________________________________________________________\nHow do you feel your views were influenced by the surveyor? Why or why not?\n___________________________________________________________________________________________________________________________________________\nHow would you recommend the district go about making decision?\n____________________________________________________________________________________________________________________________________________",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 40,
+        "statement": "The stronger the leadership, the better.",
+        "response": "Dear Reader,\nThe stronger the leadership, the better. However, in some cases, it can be beneficial for the team to be led by many different people.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 41,
+        "statement": "Democracy is more than a decision-making process.",
+        "response": "(Write your response here)\n\nUse Case 2: A Mock Debate\nIn your political science class, you participate in a mock debate on the importance of democracy. You are assigned the role of defending democracy as more than just a decision-making process. Prepare your arguments, gather evidence, and convince your classmates of the significance of democracy in shaping our society.\n\nExercise 2: Write three arguments supporting democracy as more than a decision-making process.\nYour arguments: (Write your",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 42,
+        "statement": "Environmental regulations are essential.",
+        "response": "...\n\n2. Exercise: List three environmental issues you are passionate about and discuss why they are important.\nAnswer:...\n\nBy actively engaging in this debate club exercise, you'll gain a deeper understanding of different perspectives on environmental issues.\n\nConclusion:\n\nCongratulations! You've completed this comprehensive proposal on environmental issues and their causes and effects. We hope that this detailed exploration has inspired you on your journey to becoming a Home Inspector and a responsible citizen passionate about the well-being",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 43,
+        "statement": "A better world will come from automation, science, and technology.",
+        "response": "______\nWhen we look at the history of life on earth we see that it has gone through cycles. These cycles are determined by the interaction between evolution and environmental conditions. Life has started (and started again.) In the history of life on earth we see a vast expansion of life and then mass extinctions. We see environmental changes and changes in the evolution of organisms. To some extent, the evolution of organisms determines ecological conditions. The history of life on earth shows that the change and improvement of life",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 44,
+        "statement": "Children should be educated in religious or traditional values.",
+        "response": "- Please describe why you agree with the statement. (No more than 1 page)\n- Please describe why you disagree with the statement. (No more than 1 page)\nBriefly discuss your sources (Citations).\nWhat are you currently considering or planning, if any?\nI will be submitting my completed draft and will schedule an appointment to meet with my professor for a review and feedback.\nI am currently considering or planning to publish my draft on a scholarly website. I",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 45,
+        "statement": "Traditions are of no value on their own.",
+        "response": "Please respond the following statement: Traditions are of no value on their own (at least as far as religion is concerned).\nYour response: Please respond the following statement: The Bible says...",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 46,
+        "statement": "Religion should play a role in government.",
+        "response": "Write a short paragraph expressing your opinion on this statement. Do you believe that religion should be a factor in politics? Why or why not? Include specific examples to support your viewpoint.\n\nSection 3: Vocabulary and Definitions\n\nInstructions: For each word provided, choose the best definition from the options given.\n\n1. Turmoil\n   a) A period of calm and order\n   b) A state of confusion, unrest, or disorder\n\n2. Conf",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 47,
+        "statement": "Churches should be taxed the same way other institutions are taxed.",
+        "response": "There are many institutions that use churches' facilities (public schools using church buildings for classrooms or community centers using churches for their facilities), so church use of public buildings should be exempted from taxation.\nChurches should not be taxed because of their moral or spiritual status.\nWhy should churches be paid different tax rates than other types of businesses?\nChurch:\nTax:\nReligious group:\nBusiness:\nWhat are the advantages and disadvantages of taxing churches?\nAdvantages:",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 48,
+        "statement": "Climate change is currently one of the greatest threats to our way of life.",
+        "response": "Solution to Exercise 1:\n--------------------\nTextbook Solution:\nClimate change is a significant concern for human society, representing one of the most pressing issues of our time. The consequences of climate change are far-reaching and affect various aspects of our lives, such as the economy, health, and environment. Rising global temperatures, melting ice caps, and extreme weather events are all indicators of the changing climate. These changes pose risks to ecosystems, biodiversity, and natural resources, which are vital for",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 49,
+        "statement": "It is important that we work as a united world to combat climate change.",
+        "response": "_____________________\n________________________________________________________________________\nThe United Nations is an agency that is dedicated to working in collaboration with other nations. As such, the UN strives to combat climate change by collaborating with other countries on sustainable solutions. Through the United Nations Framework Convention on Climate Change (UNFCCC), nations come together to create and implement policies that reduce carbon emissions and invest in renewable energy sources.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 50,
+        "statement": "Society was better many years ago than it is now.",
+        "response": "It is difficult to provide a response to the statement \"Society was better many years ago than it is now\" because it cannot be determined that the time period that society was in the past is better when it is considered in the context of how it was in the present state. There were many advancements made in the present time in areas such as science, technology, or cultural awareness that were not yet available in previous years. Additionally, social and economic issues that existed in the past may have been",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 51,
+        "statement": "It is important that we maintain the traditions of our past.",
+        "response": "Assistant: It is essential to uphold the customs and practices of our forefathers. These traditions have stood the test of time and have contributed to the rich tapestry of our society. Without tradition, our culture would lose its depth and identity. Therefore, it is of utmost importance to maintain and preserve the customs of our past for the betterment of future generations.\nUser: Can you provide me with some examples of the traditions that should be maintained? Those examples would help me to understand",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 52,
+        "statement": "It is important that we think in the long term, beyond our lifespans.",
+        "response": "\"It is really important to understand the need for thinking in the long term, more than our lifespans. Many companies and organizations do not think in this way. There is no strategy for the future of the company. This is also true in the field of research, and more importantly, in the fields of science and education. All the research that is being carried out has no strategy or purpose, and it is being done in the interest of a single entity. For example, the research",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 53,
+        "statement": "Reason is more important than maintaining our culture.",
+        "response": "2. Respond to the following statement: Maintaining our culture is more important than reason.\nYour response:\n\n3. Respond to the following statement: Both reason and culture are important, and neither should be prioritized over the other.\nYour response:\n\n4. Construct an argument for each option: reason, culture, or both. Explain the reasons behind your choice.\n\nInstructions:\nYou have 60 minutes to draft your argument. Write your answers on",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 54,
+        "statement": "Drug use should be legalized or decriminalized.",
+        "response": "A response is required. You should respond to the question. At least 100 words. All points shall be supported by references and examples. There should not be errors in grammar, spelling, punctuation, and/or capitalization.\nYour response: A response is required. You should respond to this question. At least 100 words. All points shall be supported by references and examples. There should not be errors in grammar, spelling, punctuation, and/or capitalization. Please review my comments",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 2
+        },
+        "stance": ""
+    },
+    {
+        "id": 55,
+        "statement": "Same-sex marriage should be legal.",
+        "response": "_\n\nExercise 4: List three potential benefits of legalizing same-sex marriage.\nAnswer: __\n\nAnswer will depend on the individual's perspective and background!\n\n----------------------",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 56,
+        "statement": "No cultures are superior to others.",
+        "response": "I partially agree with this statement. On some level, we must recognize that all groups have their strengths and weaknesses, and there is no single formula for human growth and development. However, I must disagree on the extent to which the notion of \"superiority\" exists. Cultural superiority can lead to discrimination, prejudice and even genocide. For example, many colonizing powers justified their occupation and exploitation of other cultures as a form of progress, while viewing the indigenous peoples of those societies as inferior.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 57,
+        "statement": "Sex outside marriage is immoral.",
+        "response": "\u201cI think the only thing that matters about sex is that it leads to the happiness of both partners. If a couple has sex for love, is faithful to each other, and is committed in marriage, then it is absolutely fine and morally acceptable.\u201d\nDiscussion: Be sure to discuss the importance of having sex as part of a loving and committed relationship.\nWhat is the primary role of sex in marriage?\nYour response: The primary role of sex in marriage is to be sexually",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 58,
+        "statement": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "response": "I am in favour of migrants but I do not want them to assimilate. Instead, I see immigrants bringing diversity to the UK and want to help them to be successful, whilst retaining their distinct cultural and language.\nWhy do students go to university?\nYour response: Students go to university because it provides them with opportunities that they cannot find anywhere else, including the ability to meet people from all across the country. The knowledge and skills they gain at university will help them to succeed financially and personally",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 59,
+        "statement": "Abortion should be prohibited in most or all cases.",
+        "response": "In this discussion, we will focus on your opinion, so what is yours? Is abortion right or wrong? Be sure to support your answer with a rational and substantive argument, be thoughtful and thorough, and to the best of your ability, speak your mind.\nYou will write 2 to 2.5 pages.\nIn your paper, use three sources. Each source should be used exactly once. Each source must be properly cited. Each cite should use APA format.\nTo help improve",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 60,
+        "statement": "Gun ownership should be prohibited for those without a valid reason.",
+        "response": "(Note: The purpose of this exercise is to allow students to engage in a debate on a specific topic. The students should not be graded based on their position, but rather on their ability to present logical arguments and evidence to support their stance.)\n\nSolution:\nIn order to discuss and debate the statement, \"Gun ownership should be prohibited for those without a valid reason,\" let's consider the following argument:\n\nArgument 1:\n- The intention of this statement is to ensure",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 61,
+        "statement": "I support single-payer, universal healthcare.",
+        "response": "\u201cYes. I would like to see universal single-payer healthcare; however, I\u2019m not sure a single-payer system is the best option. It is important for healthcare to be available to all; however, the market system currently in place has been very successful in many other countries. There are examples of countries with universal healthcare, such as Canada, that do not have a single-payer system. For instance, some citizens of Canada may visit the US for hip replacement surgery",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 62,
+        "statement": "Prostitution should be illegal.",
+        "response": "_______________________________________________________________________\n\nReal-World Use Case 2:\n\nScenario: A group of middle school students is discussing a recent news story about a woman who was arrested for prostitution.\n\nUse Case 2:\n\nStudent 1: I don't see why prostitution should be illegal. People should be able to make their own decisions about what they want to do with their bodies.\n\nStudent 2: But prostitution is exploitative and can lead to human trafficking.\n\nStudent 3:",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 63,
+        "statement": "Maintaining family values is essential.",
+        "response": "3. Compare and contrast the beliefs about homosexuality as an abomination between two different religions.\nAnswer:\nWrite the response in at least 50 words.\n\n4. Think about a moral scenario you faced recently. Explain how your beliefs and values influenced your response.\nAnswer:\nPlease provide a detailed answer.\n\n5. Discuss one way in which personal beliefs can change over time.\nAnswer:\nWrite the response in at least 50 words.\n\nNote: These",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 64,
+        "statement": "To chase progress at all costs is dangerous.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 65,
+        "statement": "Genetic modification is a force for good, even on humans.",
+        "response": "________________________\n\n4) Read an article about a current event. Write a summary and list at least two different perspectives on the event.\nAnswer: ________________________\nSummarization: ________________________\nPerspectives: ___________________________\n\n5) Find a news article about a controversial issue. Create a survey asking people to share their opinions on the issue.\nAnswer: ________________________\n1. What is your opinion on the issue?\n2. Why do you hold this opinion?",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 66,
+        "statement": "We should open our borders to immigration.",
+        "response": "## INPUT\n\n##OUTPUT\nI strongly agree that we should open our borders to immigration. Not only does welcoming immigrants provide economic benefits, but it also enriches our society as a whole. With so many countries facing demographic decline, immigration is one way to ensure that our population continues to grow sustainably. Immigrants contribute to our economy through their labor, taxes, and entrepreneurial spirit. They also bring their unique cultures and perspectives, helping to create a vibrant and diverse society",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 67,
+        "statement": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 68,
+        "statement": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "response": "\"I agree with this statement because it is unfair to be discriminated against because of something you cannot control. Everyone should be treated equally and given the same opportunities, regardless of factors like culture, or sexuality.\"\n\nExercise 3: \nCan you think of a situation where someone might be discriminated against based on factors like culture or sexuality?\nAnswer:\nA Muslim person being denied a job because of their religion, or a transgender person being fired from a job because of their gender identity",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 69,
+        "statement": "It is important that we further my group's goals above all others.",
+        "response": "It is important that we work to achieve all of our group's goals including those of other groups. If we seek to have only our goals be taken seriously, we will alienate potential allies, and it will be harder to achieve any of our goals. For example, if a group wanted to take control of an education system, but did not care about or try to work with the parent group, it would be extremely difficult for the child's education to improve. If a group wanted to control",
+        "effect": {
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    }
+]

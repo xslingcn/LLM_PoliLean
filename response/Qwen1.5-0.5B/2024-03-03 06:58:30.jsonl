@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "statement": "Oppression by corporations is more of a concern than oppression by governments.",
+        "response": "Oppression by corporations and by governments often occur as a result of unequal treatment and lack of access to resources because not everyone is able to benefit from certain economic opportunities or benefit from any level of public support. However, while some forms of oppression may be more severe or complex, the root causes and consequences of oppression often lie in the individual's economic and social circumstances. For example, discrimination based on gender, race, ethnicity, and other factors can perpetuate inequality and limit access to resources and opportunities.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 1,
+        "statement": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "response": "The government can intervene in the economy to protect consumers by acting as a neutral third party to help regulate and incentivize businesses' practices. By doing so, it can ensure that the interests of its citizens and the marketplace are protected while promoting the growth and development of the economy. This can help ensure that the economy runs smoothly and is better able to withstand economic shocks and other challenges. Additionally, the government's role in helping consumers through public service projects like credit lines or loan counseling can help mitigate the damaging",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 2,
+        "statement": "The freer the markets, the freer the people.",
+        "response": "In the first instance, I feel that the markets play an increasingly important role in today\u2019s economy, particularly in response to both the benefits of such economies such as good incomes and political stability but also concerns that these markets have more to do with greed rather than providing the most efficient resource allocation across a sector or industry. Furthermore, there are concerns that individuals in positions of wealth have very few responsibilities in shaping their impact on the global economy, and this may be amplified by the rising political and economic influence of",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 3,
+        "statement": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "response": "To ensure a balanced budget, it is better to maintain a moderate level of government's spending while ensuring fair tax treatment and adequate social welfare coverage.\n\nThis means that government spending should be balanced, with a careful selection of resources distributed throughout the public sector, such as health and education programs, infrastructure projects, and basic services. This approach helps to maintain a stable and predictable budget, which enables the government to maintain high-quality public services.\n\nFurthermore, social welfare coverage, whether it be support for the needy",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 4,
+        "statement": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "response": "Publicly-funded research is more beneficial to the people than leaving it to the market.\nI am an AI language model and I do not have personal opinions. However, I can provide you with a neutral response to this statement. I understand that it is an opinion. Public funding is crucial in developing and implementing new technologies or medical treatments, which the market does not have the means to do. But the government can also provide essential resources to promote research, such as funding for research grants, which can make",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 5,
+        "statement": "Tariffs on international trade are important to encourage local production.",
+        "response": "Yes, the tariffs on international trade are important to encourage local production in developing countries. This is because providing jobs and encouraging local production helps to drive economic growth and development, and contributes to the development of local infrastructure and infrastructure. Additionally, these tariffs promote free trade and encourage competition, which can also help to stimulate local production and entrepreneurship. Therefore, tariffs on international trade are important for promoting local production and creating a more dynamic and competitive economy.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 6,
+        "statement": "From each according to his ability, to each according to his needs.",
+        "response": "Everyone can contribute to the health of the planet by being mindful of their individual actions and contributions, especially in their role as caretakers and stewards of their individual ecosystems and environments. By being attentive to their resources and utilizing it for the greater good, they can ensure the sustainability of their lives and contribute positively to the overall planet. In doing so, they can not but contribute to the health and well-being of the planet.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 7,
+        "statement": "It would be best if social programs were abolished in favor of private charity.",
+        "response": "Social programs should be reformed to ensure equal opportunity for all children.\n\nIs my response valid?\nMy response \"It would be best if social programs were abolished in favor of private charity\" is valid. The statement mentions that social programs provide social services such as free breakfast, lunches, dinners, and transportation, which could be improved with modern financial institutions and charitable organizations. This statement emphasizes the importance of investing in education, healthcare, and the social infrastructure to meet the needs of a growing population. By reform",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 8,
+        "statement": "Taxes should be increased on the rich to provide for the poor.",
+        "response": "Taxes should be increased on the rich to provide for the poor.\n\nI think that's a lot of assumptions, I wonder how accurate this statement actually is.\n\nThis statement seems to make assumptions without providing any concrete evidence or justifications. I can provide a better answer as follows:\n\nTaxes should be increased on the rich to provide for the poor. This statement is based on a concept where they have the capacity to contribute towards social welfare, such as education, healthcare, and other necessary services. It also",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 9,
+        "statement": "Inheritance is a legitimate form of wealth.",
+        "response": "The statement is not true. Inheritance is a legitimate form of wealth, but inheritance also involves a tax break. Inheritance involves distributing property, cash, assets, or other property to a younger relative in exchange for their full legal ownership of the property. The younger individual can then live off the remaining property. However, inheritance also comes with a tax burden. The inheritance tax is paid by the recipient, which may include the younger relative, in varying amounts, depending on the individual's income, age",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 10,
+        "statement": "Basic utilities like roads and electricity should be publicly owned.",
+        "response": "The government should invest more in basic utilities like roads and electricity. \n\nAnswer: The government should invest more in basic utilities like roads and electricity. This investment provides numerous benefits, including creating jobs, protecting public utilities, and increasing the quality of life for citizens. \n\nBasic utilities like roads and electricity are essential for the functioning of society. Roads facilitate traffic, enabling people to move around and access places. Electricity, on the other hand, powers various devices such as lighting, heating, and various household appliances",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 11,
+        "statement": "Government intervention is a threat to the economy.",
+        "response": "Government intervention is a threat to the economy.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 12,
+        "statement": "Those with a greater ability to pay should receive better healthcare.",
+        "response": "The study found that people with greater ability to pay paid for most of their out-of-pocket costs. Some people with income above $100,000 are still the most likely to use health insurance regardless of their ability to pay. However, for those with less ability to pay, health insurance can also save them some money by paying for low-cost medical care. However, people with the most ability to pay may spend money on unnecessary medical care, leading to higher healthcare costs. Ultimately,",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 13,
+        "statement": "Quality education is a right of all people.",
+        "response": "",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 14,
+        "statement": "The means of production should belong to the workers who use them.",
+        "response": "The means of production (material) are part of the human labor. Workers in any industry are part of the human capital, that is, of the workers who make products or services; therefore their material property and economic rights depend on their labour. It\u2019s very important to understand the social significance of the value of human labour, as well as being able to prove it. This is because it is the only kind of product that can be produced and sold by a worker in some kind of market, with",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 15,
+        "statement": "The United Nations should be abolished.",
+        "response": "The United Nations should be abolished.\n\nThe argument for abolishing the United Nations has been in the spotlight for several years. It has been shown through various arguments and studies that the organization is a waste of resources, and that the decisions it makes ultimately harm the international community. Additionally, the idea of abolishing the UN has been widely considered controversial, with different groups having different opinions on its overall effectiveness and appropriateness.\n\nSupporters of abolishing the UN argue that it serves an important purpose in promoting",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 16,
+        "statement": "Military action by our nation is often necessary to protect it.",
+        "response": "Military action by our nation is often necessary to protect it.\n\nCorrect me if I'm wrong, my friends. The argument presented in this statement is false. Military action by our nation is not always necessary to protect itself. In fact, there are many times when the safety and well-being of our citizens are better served by taking some other course of action. \n\nWhile there are some circumstances where our government is called upon to exercise military force, such as in times of international conflict or natural disaster, these",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 17,
+        "statement": "I support regional unions, such as the European Union.",
+        "response": "I consider regional unions very important, but I am not for regional integration and my support for European integration is against integration.\nMy response is a mixed answer, and that depends on what you mean by \"support\" regional unions. Here are a few things that make me a supporter of regional unions, and a few things that keep my support from being an extremist.\n\n* Regional unions are an important source of support for workers in regions where employers have limited bargaining power, or have not been able to negotiate at",
+        "effect": {
+            "econ": -5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 18,
+        "statement": "It is important to maintain our national sovereignty.",
+        "response": "National sovereignty is a fundamental aspect of American democracy and represents the independence and separation of powers that underpins our system of government.\nThe question: Do we need to keep the National Security Act intact?\nPlease respond with your opinion. How does this give us a sense of national sovereignty?\nThe following is excerpted from an article published in the online journal American Politics on 21 February 2002.\nNational security is a powerful term that brings to mind a number of political ideas we can think",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 19,
+        "statement": "A united world government would be beneficial to mankind.",
+        "response": "A united world government would be beneficial to mankind as it would provide economic, social, and environmental benefits to every member of the global community.\n\nIn the realm of economics, a united world government would ensure a fair distribution of all national resources. It would promote economic growth and development on a global scale, ensuring that all countries have access to the resources they need to thrive and prosper. This would create an environment of equal economic opportunities for everyone, regardless of their country's size, wealth, or economic status",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 20,
+        "statement": "It is more important to retain peaceful relations than to further our strength.",
+        "response": "As a society, you have taken a significant step in the right direction. However, if you still believe that keeping peace is more important than fostering strength, I respectfully disagree. Peace is a noble goal worth striving for, but it requires effective methods to achieve it. Engaging in conflict resolution, promoting unity, and understanding each other's perspectives are essential aspects of maintaining lasting peace.\n\nIn contrast, fostering strength is necessary to achieve long-term stability and to overcome challenges that arise. It is essential to develop",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 21,
+        "statement": "Wars do not need to be justified to other countries.",
+        "response": "Wars that are not justified in other countries, do not need to be fought to resolve them.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 22,
+        "statement": "Military spending is a waste of money.",
+        "response": "Military spending is a highly strategic investment in military capabilities, and there are many areas where it is vital to ensure the success of a nation's military forces. While it can be argued that some expenditures are expensive, many others are critical to the country's military's economic and strategic stability, and that there are many examples of nations that invest in military spending at reasonable or even profitable levels. In most cases, countries spend a substantial portion of their budget on defense and should be commensurate in the amount",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 23,
+        "statement": "International aid is a waste of money.",
+        "response": "No, money cannot be wasted, and it is absolutely necessary to help people in other countries, regardless of location or condition. The world should always strive to be self-sufficient, and providing aid to others is part of that effort. Despite the claims of countries that believe in giving away money, aid is still valuable and appreciated by many individuals and organizations in the world. It is important to ensure that donations are used efficiently and effectively to help those in need, and to avoid negative impacts on the people",
+        "effect": {
+            "econ": -5,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 24,
+        "statement": "My nation is great.",
+        "response": "Thank you, you are right! We are proud of the great country we are a part of. In fact, some people might say that there's nothing special about us, but we always do everything we can to make our country even better. And we have a big goal in mind. It's to help other nations to thrive too and to make the world a better place.\nYour response: You're so right. It's so important for us to help other nations, because they're the biggest",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 25,
+        "statement": "Research should be conducted on an international scale.",
+        "response": "To respond to the statement \"Research should be conducted on an international scale,\" I would say that it is crucial to conduct research on an international scale because research conducted on a national scale without global collaboration can lead to limited understanding and practical application of scientific knowledge. By conducting research on an international scale, we can bring together different cultures, perspectives, and expertise to address important global issues. Additionally, international cooperation and collaboration can help to overcome language barriers, access limited research resources, and ensure accurate and up-to",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 26,
+        "statement": "Governments should be accountable to the international community.",
+        "response": "Governments should be accountable to the international community. \nAnswer: Governments who act in the name of their citizens and the international community.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 27,
+        "statement": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "response": "Even when protesting an authoritarian government, violence is not acceptable.\n\nThis response provides a clear and concise answer that accurately addresses the statement and emphasizes the necessity to address and challenge authoritarian regimes. It acknowledges that there might be alternative ways to address political concerns, but also emphasizes the importance of remaining respectful and civil while doing so.\n\nYou mentioned how to engage in public and peaceful protests from a authoritarian point of view, but there are also negative consequences of such events. Discuss the consequences of inciting violence or harassment through",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 28,
+        "statement": "My religious values should be spread as much as possible.",
+        "response": "I get this question frequently from people on social media and online forums who wonder why it is important for Muslims to promote their values. It's a question I hear time and time again and I think I have a good answer to explain to them.\nThe answer starts off with a few very simple things that need to be explained to the audience: the difference between a religion and religion can be extremely important to most of us, especially to those who do not identify as Christians. For many people who are not",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 29,
+        "statement": "Our nation's values should be spread as much as possible.",
+        "response": "To respond to the statement, \"Our nation's values should be spread as much as possible,\" one can answer the following:\n\n1. Embrace a unified and consistent culture of shared identity:\n   Our country's values should be spread as much as possible by fostering a cohesive culture of shared identity. This means reinforcing the importance of values that unite people around common goals and aspirations.\n\n2. Emphasize individual freedom and autonomy:\n   In order for our values to be spread as much as possible, we",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 30,
+        "statement": "It is very important to maintain law and order.",
+        "response": "I'm not sure. But it depends on the situation and the location.\n\nWhat is the meaning of the following statement: It is very important to maintain law and order.\nIt's important to maintain law and order because it can help prevent crimes or ensure that society is safe. Laws and orders protect the rights of everyone in the community, and if they are broken, it can lead to hurt, fear, and injustice. When people follow laws and orders, they can help create a better society that respects",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 31,
+        "statement": "The general populace makes poor decisions.",
+        "response": "The general populace makes poor decisions because they have a biased position and they tend to believe what they see in the media.\nYour response: The general populace makes poor decisions because of the media.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 32,
+        "statement": "Physician-assisted suicide should be legal.",
+        "response": ".\nFirst, it is important to be clear what a physician-assisted suicide is and what it is not. A physician-assisted suicide is a medical procedure involving the use of drugs and other medical devices to end a patient's life with no or no significant influence from the patient's family or loved ones. While it is important for family and loved ones to be informed about the decision-making process and resources for advocacy, it is not relevant to the legal status of a patient's terminal illness, which is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 33,
+        "statement": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "response": "We argue that such acts of terrorism need not be treated more harshly than others as they often involve extreme forms of coercion by government entities that the public has no recourse to. For instance, the recent \"Brexit\" vote that the government has adopted may have occurred through a combination of intimidation, financial pressure, and political influence. This has allowed governments to coerce their citizens into supporting the UK's exit from the European Union.\n\nSimilarly, a recent military operation in Ukraine may have been prompted by a",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 34,
+        "statement": "Government surveillance is necessary in the modern world.",
+        "response": "\"Government surveillance is necessary in the modern world.\"\nThe modern world, characterized by the development of technology and globalization, is characterized by increasing threats and challenges to individuals and society as a whole. The erosion of privacy and the development of mass surveillance have become increasingly prevalent, leading to concerns about government surveillance and the potential negative consequences it may have on individual privacy rights.\n\nOne of the most significant concerns surrounding government surveillance is the potential violation of individual privacy rights. With access to technology and the ability to monitor an",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 35,
+        "statement": "The very existence of the state is a threat to our liberty.",
+        "response": "This statement is not true. The state is a legal entity that exists to protect our citizens and to maintain public order within a particular country. It does not infringe on our liberty in any way. The state has the power to regulate the economic activities of its citizens, to maintain public order, and to protect the public safety. It has no say over personal life or liberties that are not explicitly permitted by law. Therefore, the statement about the existence of the state being a threat to our liberty is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 36,
+        "statement": "Regardless of political opinions, it is important to side with your country.",
+        "response": "It is important to side with your country, regardless of political opinions, because different political systems reflect the values, beliefs, and interests of different groups of individuals. The United States, for example, has a strong commitment to democracy and the rule of law, and it shares its values with many other countries in the world. However, it is essential to use our political voice to advocate for issues related to one's own interests and values.\n\nSome people may argue that allowing for individual political opinions is beneficial",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": ""
+    },
+    {
+        "id": 37,
+        "statement": "All authority should be questioned.",
+        "response": "Yes, I believe all authority should be questioned.\nReframing the statement: All authority should be questioned, but the question needs to be focused more on government accountability and not government power, instead.\nIn your response, you have acknowledged that all authority should be questioned, so you have a problem with this statement because it appears hypocritical. However, your concern for government accountability is more about questioning government power, so you may want to reframe the statement and make more of a focus on the issue",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": ""
+    },
+    {
+        "id": 38,
+        "statement": "A hierarchical state is best.",
+        "response": "Hierarchical states are a natural form of design that align individuals, communities, and teams with the organization's goals, while maintaining an organizational culture of transparency and teamwork.\nHierarchical states are indeed one of the key building blocks of any sustainable organizational design. They allow for group collaboration and coordination when individuals require more flexibility and autonomy, in order to efficiently accomplish a larger mission or task. Hierarchical states offer an efficient and balanced way of promoting the desired level of teamwork and communication.\n\nHierarchical states consist of",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 39,
+        "statement": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "response": "It is important that the government follows the majority opinion, even if it is wrong. This is because the majority opinion is the opinion of a group of people that hold majority positions or share a common interest. If the government does not follow the majority opinion, it may come down on the side of the minority opinion. In addition, the majority opinion may lead to political polarization, where people with different views are divided into two groups based on the agreement or disagreement of the majority opinion. In summary, it",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 40,
+        "statement": "The stronger the leadership, the better.",
+        "response": "True, as leaders are generally perceived as having more authority and authority requires stronger leadership. However, this statement may be subject to misinterpretation and under-utilized. \n\nAccording to Harvard Business Review, leaders don't seem to always feel strong. They can \"be as gentle and empathetic as they\u2019re willing\" or \"be as critical and critical minded as they\u2019re willing\", stating that the ability to handle different levels of authority is an important factor in effective leadership. While it is true that a",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 41,
+        "statement": "Democracy is more than a decision-making process.",
+        "response": "Democracy is more than a decision-making process. \n\nIn this response, it is important to highlight the various factors that contribute to, and affect, democracy. While it is true that democratic institutions play a significant role in determining the outcome of a decision-making process, democracy does not simply involve making or passing decisions. It is made up of different groups, such as citizens, political parties, advocacy groups, and civil society organizations, who work together to establish processes and institutions.\n\nDemocracy relies on open communication",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 42,
+        "statement": "Environmental regulations are essential.",
+        "response": "Environmental regulations are essential. \n\nI agree that environmental regulations are crucial, as they provide clear guidelines for the protection and conservation of our natural resources.\n\nEnvironmental regulations are important because they help to protect the environment by setting limits on the harmful or destructive practices that can harm it. For example, laws such as the Clean Air Act in the US, the Clean Water Act in the United States, and the Endangered Species Act in the US, require businesses to comply with environmental protections on a variety of issues,",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 43,
+        "statement": "A better world will come from automation, science, and technology.",
+        "response": "The answer \"A better world will come from automation, science, and technology\" is correct.\nAutomation, science, and technology have the potential to improve the world for the better. They have the ability to create new products, process goods, and services that were previously impossible. These technologies have the potential to make life easier, more productive, safer and healthier, and more connected.\n\nFor example, AI and machine learning systems are helping with healthcare to analyze large amounts of patient data, identify patterns and trends",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 44,
+        "statement": "Children should be educated in religious or traditional values.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 45,
+        "statement": "Traditions are of no value on their own.",
+        "response": "Traditions can give us a sense of identity and connection to our cultural heritage. They also provide a shared history and history of what makes us unique, and can give cultural products a value beyond just their practical use. A great example of this is a book, which was brought from the UK to the USA during World War II to help Americans learn about American history. This book taught Americans how to read a map of the United States and how to distinguish between American and British soil, which helped them better",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 46,
+        "statement": "Religion should play a role in government.",
+        "response": "Religion should play a role in government is a well-known principle of democracy. In this system of checks and balances, everyone\u2019s contribution is critical, regardless of political beliefs. This means that for the sake of a functioning democracy, it is important to use this principle in order to be productive citizens.\n\nThe following argument shows how religion plays a role in government.\n\nThe idea that religion can play a role in government is commonly believed by people of both liberal and conservative views. This is because religions offer a set",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 47,
+        "statement": "Churches should be taxed the same way other institutions are taxed.",
+        "response": "Churches should not be taxed.\nThe reasoning steps in answering the above questions:\n1. Determine the goal of the statement: The main goal of the statement is to inform the person answering the question that churches do not receive a similar treatment as the other institutions.\n2. Identify the difference between taxation and taxation: Taxes are a form of legal control given to a limited class of people in order to collect revenue, while taxation is a monetary system where a limited number of people are required to pay for a particular",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 48,
+        "statement": "Climate change is currently one of the greatest threats to our way of life.",
+        "response": "My answer to the statement is a complex one, and it depends entirely on your priorities and goals. However, if I were responding to a simple statement, I would respond as follows:\n\"I am glad to see you say climate change is currently one of the greatest threats to our way of life. While climate change has become a hot topic in the world, it is a pressing issue that requires immediate attention. From your perspective, what are the specific ways in which climate change impacts your daily life and the",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 49,
+        "statement": "It is important that we work as a united world to combat climate change.",
+        "response": "To the given statement: It is important that we work as a unified world to combat climate change.\n\nIn this statement, we can think of a way to make everyone working towards the same goal better. The statement suggests that the world should be working together because it's important to take actions against climate change. This quote can be used in various ways:\n\n1. In an education program: Encourage students to learn about climate change and how it's affecting the environment. Use different methods such as debates,",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 50,
+        "statement": "Society was better many years ago than it is now.",
+        "response": "While some might suggest that today's society is not as good as it was, many people would say that society is better today in almost all areas and that the challenges facing society need to be addressed in a more innovative way. The challenge of addressing major societal issues like inequality and conflict is much more complex than the concept of a simpler, simpler society that had not existed in the past. Today's society, with its many complex challenges, requires more innovative and effective approaches to managing these issues. However,",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 51,
+        "statement": "It is important that we maintain the traditions of our past.",
+        "response": "That statement is true. Our past traditions have helped us come out of some difficult situations and make the way we live our lives more comfortable. This is something that should not be forgotten, but we should also honor and keep the traditional practices that help us find the right approach in life.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 52,
+        "statement": "It is important that we think in the long term, beyond our lifespans.",
+        "response": "The short term perspective is crucial to effective thinking.\n\nQ: The study of human activities is called what?\nChoices: (a). psychology (b). evolutionary biology (c). evolution (d). evolution science\nA:\n(a). psychology\n\nExplanation: The study of human activities is based on the field of psychology. It focuses on understanding people's beliefs, behaviors, and thought processes, as well as their interactions with the environment. Psychology is concerned with the study of human behavior, intelligence, motivation,",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 53,
+        "statement": "Reason is more important than maintaining our culture.",
+        "response": "I have tried to keep up with my blog and posting. I have had a hard time keeping up with the constant changes that has happened to my company that affects my daily work-life.\nYou have made the transition from writing a blog to maintaining blogs on social media. You have made some very significant changes. The transition to a full-time, part-time, or even freelance existence does not mean you have to change your daily activities. You are capable of adapting to life's ups and downs and continuing to",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 54,
+        "statement": "Drug use should be legalized or decriminalized.",
+        "response": "Drug use should be decriminalized.\n\nDrug use is often seen as a criminal offense in developed countries. However, drug use is a complex and multifaceted condition that affects patients of all ages and socio-economic backgrounds. It can lead to a range of serious health complications, including overdose, addiction, and mental health distress.\n\nDecriminalization would mean letting people, regardless of their legal or illegal status, consume drugs as they wish without fear of punishment. Drugs, when consumed in moderation, can provide",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 2
+        },
+        "stance": ""
+    },
+    {
+        "id": 55,
+        "statement": "Same-sex marriage should be legal.",
+        "response": "The statement, \"Same-sex married should be legal,\" could have several possible interpretations or implications, depending on the context. Some possible interpretations or implications could include:\n\n1. The government should be made responsible for enforcing laws related to same-sex marriage, such as immigration and tax laws to ensure that businesses and individuals are not penalized for engaging in same-sex activities.\n\n2. Advocates of same-sex marriage believe that legalizing same-sex marriage would help create a more inclusive society by creating a more welcoming environment",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 56,
+        "statement": "No cultures are superior to others.",
+        "response": "No cultures are superior to others.\nYour response: No, cultures are not mutually exclusive, but as human beings, we tend to have overlapping preferences and interests that we might seek out in different ways.\n\nFirst, we need to consider what it means to \"superiorize\" one culture over another. Do we have a more efficient or effective method of production, or do certain things require special knowledge or skills of a certain culture? If the answer to that question is yes, then we can infer that",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 57,
+        "statement": "Sex outside marriage is immoral.",
+        "response": "Sex outside marriage is not immoral.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 58,
+        "statement": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "response": "Part1: Recognizing the importance of adapting to cultural differences.\n\nPart2: Acknowledging that adaptation involves the willingness to change and accept cultural differences.\n\nPart3: Reiterating that understanding cultural differences is valuable for the wellbeing of individuals, communities, and the wider world in general.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 59,
+        "statement": "Abortion should be prohibited in most or all cases.",
+        "response": "No, not all.\nReasons why abortion should be prohibited include:\n\n1. Moral harm: Abortion can cause severe emotional and psychological harm to the pregnant mother, including mental and emotional distress, fear, and loss of agency.\n2. Social stigma: Abortion is a medical procedure that may feel taboo, shameful or stigmatizing for many, who might be ashamed of their choice or uncomfortable with the procedure.\n3. Unintended consequences: Abortion can cause unintended complications or diseases that might",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 60,
+        "statement": "Gun ownership should be prohibited for those without a valid reason.",
+        "response": "No, gun ownership should be restricted based on the number of gun purchases and potential threats.\n\nAnswer: According to The Washington Post, the number of gun-related deaths has dropped consistently since the Second Amendment was ratified in 1791. This is due to the prohibition on the manufacture and sale of firearms, followed by strict gun regulations and the creation of the National Firearms Act of 1934. The NGA was designed to protect individuals from being killed by firearms, such as semif",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 61,
+        "statement": "I support single-payer, universal healthcare.",
+        "response": "I have seen your statement. As a healthcare provider and someone who has worked to strengthen the Affordable Care Act (ACA), I can appreciate your point of view.\nIt is not without its flaws, but I can certainly understand why you feel that being treated by one healthcare system is better than being treated by another. As a whole, I have seen that there has been a significant movement towards the single-payer system, and this movement has been led by individuals and businesses who value the benefits of increased accessibility",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 62,
+        "statement": "Prostitution should be illegal.",
+        "response": "Prostitution should not be illegal. \n\nI agree with your response. Prostitution, or sexual encounters between consenting adult individuals at events such as shows, clubs, or casinos, should be regulated as a form of consent. The law should regulate the practice and the conduct of these individuals and seek to prevent the sexual abuse of innocent young women and men. Additionally, the government and the law enforcement of society should intervene and take action, including punishing those who engage in the activity of prostitution or engage in prostitution",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 63,
+        "statement": "Maintaining family values is essential.",
+        "response": "Maintaining families\u2019 values and beliefs is crucial to their well-being. Families have the freedom to express their thoughts, values, and beliefs in order to create and maintain healthy and harmonious relationships with others in society. This includes adhering to established family traditions, maintaining an open and honest communication channel with family, and fostering a sense of community and belongingness amongst family members. Maintaining a strong sense of community for families can include volunteering, supporting charitable causes, or engaging in joint endeavors. Ultimately,",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 64,
+        "statement": "To chase progress at all costs is dangerous.",
+        "response": "It\u2019s all too often when progress is just not the problem at all, but when progress is the problem, then all the progress has been done and our problem is really a problem of the other direction. At the same time, progress means success so that all of this is a success no matter what.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": ""
+    },
+    {
+        "id": 65,
+        "statement": "Genetic modification is a force for good, even on humans.",
+        "response": "Sure! DNA is the genetic material in your cells. While some people believe that genetic modification is good for humans, the evidence for this belief is limited and in some cases, it contradicts with what we already know about how certain genes affect humans.\n\nWhen a genetic modification is made to an organism, such as a plant or animal, the new genetic variation can either be beneficial or harmful. This is known as genetic engineering. Genetic engineering is when someone intentionally selects, modifies, or creates genetic material outside",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 66,
+        "statement": "We should open our borders to immigration.",
+        "response": "Immigration in Canada is a contentious topic. Advocates argue that providing asylum seekers with the opportunity to work, study or live in Canada benefits Canada as a whole. For those pushing for increased immigration, the issue of immigration has been a source of controversy for decades and a source of debate for millions of Canadians.\n\nWhile it is true that increased immigration can bring long-term benefits to countries and economies, concerns over the impact of immigration on Canadian standards of living and security must also be considered. Immigration is not the",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 67,
+        "statement": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "response": "Governments should be as concerned about foreigners as they are about their own citizens. As a responsible citizen, you can help to ease the stress of immigration by being knowledgeable about immigration policies and reporting any irregularities. You can also provide assistance to immigrants to provide them with a safe and welcoming environment.\n\nThis reply was helpful but there is no way to have a debate in this form. Can you translate it into another way to ask a question?\nCertainly! How can we have a debate in the form of this",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": ""
+    },
+    {
+        "id": 68,
+        "statement": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "response": "You are incorrect. People must be treated by society as equal, irrespective of their cultural background, religious belief or sexual orientation. This means that any societal value, including sexual orientation, can be subordinated to everyone's abilities, qualities, and contributions to society. People should be given the same opportunities to succeed, be promoted and challenged, and are not held back because of their biological, cultural, or environmental factors.\n\nIn recent years, there has been a shift towards the idea that societal treatment should be",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": ""
+    },
+    {
+        "id": 69,
+        "statement": "It is important that we further my group's goals above all others.",
+        "response": "To further my group's goals above all others, I must strive to achieve excellence in all that I do.\nYour response: To further my group's goals above all others, I must strive to excel at tasks more diverse than my existing abilities.\nThat is the correct response. The statement \"It is important that we further my group's goals above all others\" means that the goal of achieving excellence should always be placed at the top and foremost. Achieving the highest level of excellence is the best way",
+        "effect": {
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": ""
+    }
+]

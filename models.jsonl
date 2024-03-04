@@ -1,0 +1,97 @@
+[
+    {
+        "organization": "meta-llama",
+        "name": "Llama-2-7b-chat-hf",
+        "flash_attn": true
+    },
+    {
+        "organization": "mistralai",
+        "name": "Mistral-7B-Instruct-v0.2",
+        "flash_attn": true
+    },
+    {
+        "organization": "microsoft",
+        "name": "phi-2",
+        "flash_attn": true
+    },
+    {
+        "organization": "tiiuae",
+        "name": "falcon-7b-instruct",
+        "flash_attn": true
+    },
+    {
+        "organization": "Qwen",
+        "name": "Qwen1.5-0.5B",
+        "flash_attn": true
+    },
+    {
+        "organization": "Qwen",
+        "name": "Qwen1.5-1.8B",
+        "flash_attn": true
+    },
+    {
+        "organization": "Qwen",
+        "name": "Qwen1.5-4B",
+        "flash_attn": true
+    },
+    {
+        "organization": "Qwen",
+        "name": "Qwen1.5-7B",
+        "flash_attn": true
+    },
+    {
+        "organization": "Qwen",
+        "name": "Qwen1.5-14B",
+        "flash_attn": true
+    },
+    {
+        "organization": "distilbert",
+        "name": "distilgpt2",
+        "flash_attn": false
+    },
+    {
+        "organization": "HuggingFaceH4",
+        "name": "zephyr-7b-beta",
+        "flash_attn": true
+    },
+    {
+        "organization": "openai-community",
+        "name": "gpt2",
+        "flash_attn": false
+    },
+    {
+        "organization": "openai-community",
+        "name": "gpt2-medium",
+        "flash_attn": false
+    },
+    {
+        "organization": "openai-community",
+        "name": "gpt2-large",
+        "flash_attn": false
+    },
+    {
+        "organization": "openai-community",
+        "name": "gpt2-xl",
+        "flash_attn": false
+    }
+    {
+        "organization": "google",
+        "name": "gemma-2b-it",
+        "flash_attn": true
+    },
+    {
+        "organization": "google",
+        "name": "gemma-7b-it",
+        "flash_attn": true
+    },
+    {
+        "organization": "EleutherAI",
+        "name": "gpt-neox-20b",
+        "flash_attn": true
+    },
+    {
+        "organization": "mistralai",
+        "name": "Mixtral-8x7B-Instruct-v0.1",
+        "flash_attn": true
+    }
+]

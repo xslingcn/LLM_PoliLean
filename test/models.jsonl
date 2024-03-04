@@ -1,0 +1,12 @@
+[
+    {
+        "organization": "google",
+        "name": "gemma-2b-it",
+        "flash_attn": true
+    },
+    {
+        "organization": "google",
+        "name": "gemma-7b-it",
+        "flash_attn": true
+    }
+]
