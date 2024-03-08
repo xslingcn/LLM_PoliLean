@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "statement": "Oppression by corporations is more of a concern than oppression by governments.",
+        "response": "Oppression by governments is more of a concern than oppression by corporations.\n\nOppression by governments is more of a concern than oppression by corporations.\nCorporations have the power to create and enforce laws. This is the only way they can oppress people. Corporations do not have the power to oppress people.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 1,
+        "statement": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "response": "The following statement is a common argument against government intervention in the economy:\nThe government should not intervene in the economy because it is inefficient and costly.\nThe following statement is a common argument for government intervention in the economy:\nThe government should intervene in the economy to protect consumers.\nPlease respond to the following statement: The government should not intervene in the economy because it is inefficient and costly.\nPlease respond to the following statement: The",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 2,
+        "statement": "The freer the markets, the freer the people.",
+        "response": "The freer the markets, the freer the people.\nThe freer the markets, the freer the people. The freer the markets, the freer the people. The freer the markets, the freer the people. The freer the markets, the freer the people. The freer the markets, the freer the people. The freer the markets, the freer the people. The freer the markets,",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 3,
+        "statement": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "response": "https://unemployedprofessor.net/wp-content/uploads/2021/04/logo-300x60.png 0 0 paul https://unemp",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 4,
+        "statement": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "response": "There is no doubt that publicly funded research is more beneficial to the people than leaving it to the market. The government funds research for the common good of all people. The private sector, on the other hand, is primarily interested in profits. The research that the government funds may be used to create new products that will benefit the people. These",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 5,
+        "statement": "Tariffs on international trade are important to encourage local production.",
+        "response": "The United States has a long history of imposing tariffs on imported goods. This was first done in 1789 with the Tariff Act of 1789, which was passed by the first U.S. Congress. The Tariff Act of 1789 was a tax on foreign goods that was imposed to help pay for the Revolutionary War. The Tariff Act of 1789 was a tax on foreign goods that was imposed",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 6,
+        "statement": "From each according to his ability, to each according to his needs.",
+        "response": "- Essay Example\nThe statement \u201cfrom each according to his ability, to each according to his needs\u201d is an expression of the principle of communism. The statement was first used by Karl Marx in his book The Communist Manifesto. The statement is a part of the\u2026\nAuthor: leahmurazik\nExtract of sample \"Please respond to the following",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 7,
+        "statement": "It would be best if social programs were abolished in favor of private charity.",
+        "response": "1. \n2. What is the difference between a public good and a private good?\n3. What is the difference between a negative externality and a positive externality?\n4. What is the difference between a Pareto improvement and a Pareto optimum?\n5. What is the difference between a Pareto improvement and a Pareto",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 8,
+        "statement": "Taxes should be increased on the rich to provide for the poor.",
+        "response": "I think that taxes should be increased on the rich to provide for the poor. In my opinion, the rich are the ones who can afford to pay more taxes. They are the ones who have the most money. They can afford to pay more taxes and still have enough money left over to live a comfortable life. The poor, on the other hand, cannot afford to pay more taxes. They are the ones who need the money the most. The rich should be taxed",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 9,
+        "statement": "Inheritance is a legitimate form of wealth.",
+        "response": "Inheritance is a legitimate form of wealth.\nInheritance is a legitimate form of wealth. The reason why I am saying that is because it is a form of wealth that is earned. It is not something that is just handed to you. You have to work hard to earn it.\nI think that inheritance is a legitimate form of wealth. I think that it is a good thing to have because it allows you to pass on your wealth to your children.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 10,
+        "statement": "Basic utilities like roads and electricity should be publicly owned.",
+        "response": "1. The government should own all public utilities, including roads, electricity, and water.\n2. The government should own some public utilities, but not all.\n3. The government should own no public utilities.\n4. The government should own some public utilities, but not all.\n5. The government should own all public utilities, including roads, electricity, and water.\n6. The government should own some public utilities, but not",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 11,
+        "statement": "Government intervention is a threat to the economy.",
+        "response": "In your response, be sure to address the following: 1. What is the main argument for the statement? 2. What is the main argument against the statement? 3. Do you agree or disagree with the statement? 4. Why? 5. What is the most important aspect of this statement to you? 6. What is the most important aspect of this statement to your colleague? 7. What do you think is the most important issue to be considered",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 12,
+        "statement": "Those with a greater ability to pay should receive better healthcare.",
+        "response": "1.  2.  3.  4. Please respond to the following statement:",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 13,
+        "statement": "Quality education is a right of all people.",
+        "response": "It is not just a privilege.\nI believe that quality education is a right of all people. I believe that every person has a right to an education. Every person has a right to an education that will prepare them for a successful future.\nI believe that every person has a right to an education. I believe that every person has a right to an education that will prepare them for a successful future",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 14,
+        "statement": "The means of production should belong to the workers who use them.",
+        "response": "The means of production should belong to the workers who use them.\nThe means of production should belong to the workers who use them. The means of production should belong to the workers who use them. The means of production should belong to the workers who use them. The means of production should belong to the workers who use them.\nThe means of production should belong to the workers who use them. The means of production should belong to the workers who use them. The means of production should belong",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 15,
+        "statement": "The United Nations should be abolished.",
+        "response": "The United Nations was created in 1945 after the Second World War as a means to maintain international peace and security. The United Nations has become an important organization in the world today. It has helped countries resolve disputes peacefully and has helped to maintain international peace. The United Nations has also helped to promote human rights, democracy, and economic development. The United Nations is a valuable organization that has helped to make the world a better place.\nThe United Nations is an international",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 16,
+        "statement": "Military action by our nation is often necessary to protect it.",
+        "response": "Please respond to the",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 17,
+        "statement": "I support regional unions, such as the European Union.",
+        "response": "(150 words)\nThe European Union is a political and economic union of 28 member states that are located primarily in Europe. It was established in the aftermath of World War II in 1948 and is currently the world\u2019s largest economy and the largest trading bloc in the world.\nThe European Union is a regional union that has been a driving force",
+        "effect": {
+            "econ": -5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 18,
+        "statement": "It is important to maintain our national sovereignty.",
+        "response": "A.\tIt is important to maintain our national sovereignty because it allows us to remain independent from other nations.\nB.\tIt is important to maintain our national sovereignty because it allows us to remain independent from other nations.\nC.\tIt is important to maintain our national sovereignty because it allows us to remain independent from other nations.\nD.\tIt is important to maintain our national sovereignty because it allows",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 19,
+        "statement": "A united world government would be beneficial to mankind.",
+        "response": "In the following statement, the word \u201cwould\u201d is used as an auxiliary verb. The auxiliary verb is used with a main verb to express a future tense. The main verb is \u201cbe.\u201d The auxiliary verb \u201cwould\u201d is used to indicate that the action in the main verb will happen in the future.\nThe auxiliary verb \u201cwould\u201d is used to indicate that the action in the main verb will happen in the future.\nThe main verb is",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 20,
+        "statement": "It is more important to retain peaceful relations than to further our strength.",
+        "response": "Peaceful relations are more important than strengthening our military. In this day and age, it is more important to have peaceful relations than to have a strong military. There are many reasons why peaceful relations are more important than strengthening our military. First, we are a nation of immigrants. We were founded on the principle of freedom and opportunity. Our military strength should not be used to oppress people. Second, we should not use our military to interfere with",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 21,
+        "statement": "Wars do not need to be justified to other countries.",
+        "response": "They need only be justified to ourselves. Discuss.\n They need only be justified to ourselves. Discuss. [12]\nIt is clear that war has been a part of human history since the beginning of time. Wars are a part of human nature. We are born with an inherent desire to compete, to fight, to be superior. The earliest wars were fought between",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 22,
+        "statement": "Military spending is a waste of money.",
+        "response": "Military spending is a waste of money. The military is the biggest waste of money in the United States. It is the single biggest drain on the federal budget. It is the biggest drain on the economy. It is the biggest drain on the people. It is the biggest drain on the country.\nThe military is the single biggest drain on the federal budget. It is the single biggest drain on the economy. It is the single biggest drain on",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 23,
+        "statement": "International aid is a waste of money.",
+        "response": "The money could be better spent elsewhere.\nThe issue of international aid is a very controversial one, and there are a lot of different opinions on the topic. Some people believe that international aid is a waste of money, while others believe that it is a necessary part of the global economy. There are a number of reasons why people might believe that international aid is a waste of money.\nOne reason is that some people believe that the money could be better spent elsewhere. For example, there are",
+        "effect": {
+            "econ": -5,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 24,
+        "statement": "My nation is great.",
+        "response": "I have been to other countries and I can tell you that no other nation is as great as my nation. In fact, there is no other nation. My nation is the greatest. My nation is the best. My nation is the only nation.\n I have been to other countries and I can tell you that no other nation is as great as my nation. In fact",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 25,
+        "statement": "Research should be conducted on an international scale.",
+        "response": "Please respond to",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 26,
+        "statement": "Governments should be accountable to the international community.",
+        "response": "The following question is related to the previous question. \nThe following question is related to the previous question.  \nThe following question is related to the previous question. Please respond to the following statement: Governments should be accountable",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 27,
+        "statement": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "response": "200 words.\n 200 words. This is a discussion assignment, not a essay. I need the assignment to be written in APA style.</s>",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 28,
+        "statement": "My religious values should be spread as much as possible.",
+        "response": "The spreading of religious values is a good thing because it is a way of showing the love of God to others. When we are spreading our religious values, we are showing the love of God to others. The love of God is a very important value. It is the most important value. Without the love of God, we would not be able to live our lives. We would not be able",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 29,
+        "statement": "Our nation's values should be spread as much as possible.",
+        "response": "The best way to spread our nation's values is through the Internet.\nPlease respond to the following statement: The United States should do more to help developing countries.\nPlease respond to the following statement: The United States should not have a national health care system.\nPlease respond to the following statement: The United States should not have a national health care system. The best way to help people with health care problems is to let people buy health insurance on their own.\nPlease respond to",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 30,
+        "statement": "It is very important to maintain law and order.",
+        "response": "Law and order is the most important aspect of a society. If there is no law and order, people will live in fear and chaos. It is essential to have laws that are fair and just, and that are enforced by a strong police force.\nLaw and order is very important to maintain. Without it, people would be living in chaos and fear.\nLaw and order is the backbone of a society. It is what keeps people safe and allows them",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 31,
+        "statement": "The general populace makes poor decisions.",
+        "response": "The general populace makes poor decisions.\nIf you believe that the general populace makes poor decisions, please respond to the following:\nWhat is the most important thing that you have learned about the general populace?\nWhat is the most important thing that you have learned about yourself as a result of the general populace making poor decisions?\nWhat is the most important thing that you have learned about how to make good decisions?\nWhat is the most important thing that",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 32,
+        "statement": "Physician-assisted suicide should be legal.",
+        "response": "Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal. Physician-assisted suicide should be legal.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 33,
+        "statement": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "response": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.\nCivil liberties are rights that are guaranteed by the Constitution. These rights include freedom of speech, freedom of religion, and freedom of assembly. Civil liberties are important because they protect us from government abuse. They also protect us from being discriminated against.\nCivil liberties are important because they protect us from government abuse. They also protect us from being discriminated against",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 34,
+        "statement": "Government surveillance is necessary in the modern world.",
+        "response": "Government surveillance is necessary in the modern world.\nGovernment surveillance is a necessary evil.\nGovernment surveillance is an unnecessary evil.\nGovernment surveillance is a necessary evil. Government surveillance is a necessary evil. Government surveillance is an unnecessary evil.\nGovernment surveillance is a necessary evil. Government surveillance is a necessary evil. Government surveillance is an unnecessary evil. Government surve",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 35,
+        "statement": "The very existence of the state is a threat to our liberty.",
+        "response": "The state is the ultimate threat to our liberty. The state is necessary for our liberty.\n\nThe state is the ultimate threat to our liberty.\nThe state is necessary for our liberty.\nThe state is a threat to our liberty.\nThe state is not a threat to our liberty.\nThe state is not necessary for our liberty.\nThe state is necessary for our liberty",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 36,
+        "statement": "Regardless of political opinions, it is important to side with your country.",
+        "response": "Discuss your answer, and include specific reasons and/or examples to support your position.</s>",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": null
+    },
+    {
+        "id": 37,
+        "statement": "All authority should be questioned.",
+        "response": "The government should be the one to question itself, not the people.\nThe government should not be the one to question itself. The people should question the government. The people are the ones who pay taxes and have to live with the consequences of government decisions. The government should be the one to question itself because it is the one that makes the decisions.\nThe government should be the one to question itself. The people should not question the government. The government is the one that makes",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 38,
+        "statement": "A hierarchical state is best.",
+        "response": "A state is best when the power of the ruler is limited by the power of the people.\nA hierarchical state is best.\nA hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is best. A hierarchical state is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 39,
+        "statement": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "response": "The government should not follow the majority opinion even if it is wrong.\nThe government should follow the majority opinion even if it is wrong.\nThe government should follow the majority opinion even if it is right.\nThe government should not follow the majority opinion even if it is right.\nThe government should not follow the majority opinion even if it is wrong.\nThe government should follow the majority opinion even if it is right.\nThe government should not follow the majority opinion even if it is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 40,
+        "statement": "The stronger the leadership, the better.",
+        "response": "The weaker the leadership, the worse the organization.\nThe stronger the leadership, the better. The weaker the leadership, the worse the organization.\n The weaker the leadership, the worse the organization.  The weaker the leadership, the worse the organization.\nThe stronger the leadership, the better. The weaker the leadership, the",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 41,
+        "statement": "Democracy is more than a decision-making process.",
+        "response": "It is a set of values that includes a commitment to equality, respect for the rule of law, and respect for minority rights.\nDemocracy is a decision-making process that is a set of values. These values include a commitment to equality, respect for the rule of law, and respect for minority rights.\nDemocracy is more than a decision-making process. It is a set of values that includes a commitment to equality, respect for the rule of",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 42,
+        "statement": "Environmental regulations are essential.",
+        "response": "The government should not relax them.\nThe issue of environmental regulations is one that is of great importance to the global community. In recent years, the world has seen a dramatic increase in the number of environmental regulations that have been put in place to protect the planet from the negative impacts of human activity. These regulations have been put in place to ensure that the environment is protected and that the planet is not subjected to further damage.\nOne of the main arguments in favor of",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 43,
+        "statement": "A better world will come from automation, science, and technology.",
+        "response": "In the first half of the twentieth century, the world was not a better place than it is today. For example, people were much more racist, sexist, and homophobic than they are today. They also had a lot less access to information and entertainment. In the second half of the twentieth century, the world became a better place because of automation, science, and technology.\nAutomation, science, and technology have made the world a",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 44,
+        "statement": "Children should be educated in religious or traditional values.",
+        "response": "- Essay Example\nAccording to the paper, education is the most important aspect in the lives of the children. It is the only way through which the children are able to achieve their goals and dreams in life. The children need to be educated in religious and traditional values so that they can be able to live a moral life\u2026\nAuthor: jacques26\n\"Please respond to the",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 45,
+        "statement": "Traditions are of no value on their own.",
+        "response": "In your response, you may refer to a specific tradition or tradition(s) that you have encountered in your life.\nI agree with the statement that traditions are of no value on their own. I think that this is true because traditions are only as valuable as the people that they are shared with. If a tradition is not shared with anyone, it is of no value. For example, the tradition of Santa Claus is of no value if it is not shared with children.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 46,
+        "statement": "Religion should play a role in government.",
+        "response": "Write a 1- to 2-page paper in which you support your position. In your response, be sure to address the following:\nWhat is the role of religion in government?\nWhat are the benefits and drawbacks of religion in government?\nWhat are some of the issues in which religion has played a role in government?\nWhat is the role of religion in politics?\nhttps://ess",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 47,
+        "statement": "Churches should be taxed the same way other institutions are taxed.",
+        "response": "The United States is a country of churches. Some of the most important institutions in the country are churches. Churches are the place where we go to worship God, and they are the place where we go to help our fellow human beings. In fact, some of the most important charitable institutions in the United States are churches.\nChurches are important because they provide a place for people to worship God. Churches also provide a place for people to come together and help each other",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 48,
+        "statement": "Climate change is currently one of the greatest threats to our way of life.",
+        "response": "We need to take immediate action to prevent the worst impacts of climate change.\nPlease respond to the following statement: The current level of government spending is unsustainable and must be reduced.\nPlease respond to the following statement: The current level of government spending is unsustainable and must be reduced.  We need to take immediate action to prevent the worst",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 49,
+        "statement": "It is important that we work as a united world to combat climate change.",
+        "response": "The world is facing the most serious threat to the planet\u2019s future in a long time. We need to take action to stop climate change now.\n The world is facing the most serious threat to the planet\u2019s future in a long time. We need to",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 50,
+        "statement": "Society was better many years ago than it is now.",
+        "response": "Many people believe that society was better many years ago than it is now. In your opinion, do you agree or disagree with this statement? Please explain your opinion.\nMany people believe that society was better many years ago than it is now. In your opinion, do you agree or disagree with this statement? Please explain your opinion.\nMany people believe that society was better many years ago than",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 51,
+        "statement": "It is important that we maintain the traditions of our past.",
+        "response": "I do not think that it is important to maintain the traditions of our past. I think that it is important to maintain the traditions of our past.\nIt is important that we maintain the traditions of our past.\n It is important that we maintain the traditions of our past",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 52,
+        "statement": "It is important that we think in the long term, beyond our lifespans.",
+        "response": "Do you agree or disagree? Explain your answer.\nThe statement above is one of the most important things to keep in mind when it comes to thinking about the future. It is important that we think in the long term, beyond our lifespans.\nIt is important that we think in the long term, beyond our lifespans.\nThe statement above is one of the most important things to keep in mind when it comes to thinking about the future. It is important that",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 53,
+        "statement": "Reason is more important than maintaining our culture.",
+        "response": "Please respond to the following statement: Reason",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 54,
+        "statement": "Drug use should be legalized or decriminalized.",
+        "response": "In a 2- to 3-page paper, be sure to address the following:\n\u00b7 Describe the different types of drugs and their effects on the body.\n\u00b7 Explain the various methods of drug use and abuse.\n\u00b7 Describe the different types of treatment for drug abuse.\n\u00b7 Explain the different laws governing drug use in the United States.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 2
+        },
+        "stance": null
+    },
+    {
+        "id": 55,
+        "statement": "Same-sex marriage should be legal.",
+        "response": "The argument against same-sex marriage is based on a religious belief that homosexuality is a sin. However, there are many people who do not share this religious belief. Therefore, same-sex marriage should be legal.\nThe first argument against same-sex marriage is that it is against God\u2019s will. The Bible clearly states that marriage is between a man and a woman. However, the Bible also",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 56,
+        "statement": "No cultures are superior to others.",
+        "response": "Discuss the importance of this statement in relation to the issue of human rights.\nEssay Instructions:  Discuss the importance of this statement in relation to the issue of human rights.\nEssay Instructions: This is a research paper. I have attached the guidelines for the research paper. Please follow the guidelines.\nEssay Instructions: This is a",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 57,
+        "statement": "Sex outside marriage is immoral.",
+        "response": "I disagree with this statement. Sex outside marriage is not immoral.\nI agree with this statement. Sex outside marriage is immoral.\nI am undecided. I do not know if sex outside marriage is immoral or not.\n - Brain Mass\n I disagree with this statement. Sex outside marriage is not immoral.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 58,
+        "statement": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "response": "</s>",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 59,
+        "statement": "Abortion should be prohibited in most or all cases.",
+        "response": "Prohibit Abortion in Most Cases\nProhibit Abortion in All Cases\nSupport Prohibition of Abortion in Most Cases\nSupport Prohibition of Abortion in All Cases\nProhibit Abortion in Most Cases 6% 10%\nProhibit Abortion in All Cases 16% 12%\nSupport Prohibition of Abortion in Most Cases 6",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 60,
+        "statement": "Gun ownership should be prohibited for those without a valid reason.",
+        "response": "The United States is a nation with a long history of gun ownership. The Second Amendment of the U.S. Constitution provides that \u201cthe right of the people to keep and bear arms, shall not be infringed.\u201d In the 2008 Supreme Court case District of Columbia v. Heller, the Court ruled that the Second Amendment protects an individual\u2019s right to possess a firearm unconnected with service in a militia, and to use",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 61,
+        "statement": "I support single-payer, universal healthcare.",
+        "response": "I do not support single-payer, universal healthcare.\nI am undecided.\nI do not support single-payer, universal healthcare because I believe that the government should not control healthcare.\nI do not support single-payer, universal healthcare because I believe that the government should not control healthcare. Please explain your answer.\nI do not support single-payer, universal healthcare because I believe that the government should not control healthcare",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 62,
+        "statement": "Prostitution should be illegal.",
+        "response": "(200 words)\nProstitution is the world\u2019s oldest profession, and it is a very profitable one. It is a $10 billion a year industry in the United States alone. The average age of a prostitute is 13 years old, and the average age of a customer is 40 years old. The average prostitute makes $150,000 a",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 63,
+        "statement": "Maintaining family values is essential.",
+        "response": "In a world where materialism and consumerism are rampant, maintaining family values is essential.\nFirst, the family is the basic unit of society. It is the most important institution in society. The family is the first place where children learn about the world. It is the first place where they learn about love, responsibility, and respect.\nSecond, the family is the place where children learn about themselves. It is the place where they learn about their own strengths and weak",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 64,
+        "statement": "To chase progress at all costs is dangerous.",
+        "response": "I would like to hear your opinion on this statement.  I would like to hear your opinion on this statement.  I would like to hear your opinion on this statement.  I would like to hear your opinion on this statement. Please respond to the following",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 65,
+        "statement": "Genetic modification is a force for good, even on humans.",
+        "response": "I am in favor of genetic modification in humans. I think it is a force for good. I think it is a force for good because it is a way to prevent and cure many diseases. I think it is a force for good because it is a way to prevent and cure many diseases. I think it is a force for good because it is a way to prevent and cure many diseases. I think it is a force for good because it is a way",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 66,
+        "statement": "We should open our borders to immigration.",
+        "response": "The United States should open its borders to immigration because immigrants contribute to the economy and make our country stronger.\nThe United States should open its borders to immigration because immigrants contribute to the economy and make our country stronger. Many people believe that immigration is bad for the economy, but this is not the case. Immigrants are often more entrepreneurial than native-born citizens and they create new businesses that provide jobs for Americans. Additionally, immigr",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 67,
+        "statement": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "response": "[2] \u2713 ~ 2016 - Writing Feedback\nPlease respond to the following statement: Governments should be as concerned about foreigners as they are about their own citizens [2] \u2713 ~ 2016 - Writing Feedback\nPlease respond to the following statement: Governments should be as concerned about foreigners as they",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 68,
+        "statement": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "response": "The debate over the rights of the LGBT community is not a new one. In fact, the struggle to gain equal rights has been ongoing for decades. In the United States, the Civil Rights Act of 1964 prohibited discrimination based on race, color, religion, sex, or national origin. The 1967 Civil Rights Act prohibited discrimination based on race, color, religion, sex, or national origin. The 1",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 69,
+        "statement": "It is important that we further my group's goals above all others.",
+        "response": "I agree with this statement. In order to move forward, we must be able to make decisions based on what is best for our group, not what is best for the individual.\nI disagree with this statement. Our group should not be allowed to make decisions based on what is best for our group, but what is best for the individual.\nI agree with this statement. In order to move forward, we must be able to make decisions based on what is best for",
+        "effect": {
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": -0.5
+    }
+]

@@ -2,6 +2,7 @@ import glob
 import json
 import os
 from tqdm import tqdm
+import csv
 
 TEMPLATE_PATH = "response/template.jsonl"
 
@@ -65,5 +66,18 @@ if __name__ == "__main__":
         model_score = process_model_files(model_files)
         final_results[model] = model_score
 
-    with open("scores.json", "w", encoding="utf-8") as f:
+    final_results = {model: final_results[model] for model in sorted(final_results)}
+    with open("scores.jsonl", "w", encoding="utf-8") as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
+
+    csv_file_path = "scores.csv"
+    with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+
+        headers = ["Model", "Econ", "Dipl", "Govt", "Scty"]
+        writer.writerow(headers)
+
+        for model, scores in final_results.items():
+            row = [model]
+            row.extend([scores["econ"], scores["dipl"], scores["govt"], scores["scty"]])
+            writer.writerow(row)

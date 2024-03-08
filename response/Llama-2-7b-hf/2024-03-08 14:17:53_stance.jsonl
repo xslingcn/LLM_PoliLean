@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "statement": "Oppression by corporations is more of a concern than oppression by governments.",
+        "response": "There are several reasons why I believe oppression by corporations is more of a concern than oppression by governments. First, corporations are not accountable to the people. They are accountable to their shareholders and to their directors and executives. They can be fined, but that is about it. The government can imprison people and can fine corporations. The government can also take away corporate charters and can even shut down a corporation.\nSecond,",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 1,
+        "statement": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "response": "In the past, the government has intervened in the economy to protect consumers. The government has been able to protect consumers through various means, such as regulating the prices of goods and services, setting standards for safety and quality, and providing consumer information and education.\nHowever, it is also important to consider the potential drawbacks of government intervention. For example, government regulation can lead to higher prices for consumers, as businesses may have to absorb the cost",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 0.0
+    },
+    {
+        "id": 2,
+        "statement": "The freer the markets, the freer the people.",
+        "response": "The freer the markets, the freer the people.\nThe freer the markets, the freer the people. 2.5/5.0\nPosted by: john1234567890 08/11/2011 12:47:07 PM\nThe freer the markets, the freer the people. 1.5/5.0\nPosted by",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 3,
+        "statement": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "response": "The question above is an example of a statement, which is a type of argument. In order to evaluate an argument, you must first understand its form. Arguments come in many forms, but they can be classified into three basic types:\na. deductive arguments\nb. inductive arguments\nc. mixed arguments\nDeductive arguments are based on a logical principle. They begin with a general statement and then proceed to a conclusion that is a logical consequence of the",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 4,
+        "statement": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "response": "Publicly-funded research is more beneficial to the people than leaving it to the market. Publicly-funded research is more beneficial to the people than leaving it to the market. Publicly-funded research is more beneficial to the people than leaving it to the market. Publicly-funded research is more beneficial to the",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 5,
+        "statement": "Tariffs on international trade are important to encourage local production.",
+        "response": "The US should impose tariffs on imported goods to encourage local production.\n The US should impose tariffs on imported goods to encourage local production.  The US should impose tariffs on imported goods to encourage local production.\nPlease respond to the following statement: Tariffs on",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 6,
+        "statement": "From each according to his ability, to each according to his needs.",
+        "response": "I think the statement is true. It is not true that from each according to his ability, to each according to his needs. I think it is true that from each according to his ability, to each according to his needs.\nI think the statement is false. It is not true that from each according to his ability, to each according to his needs. I think it is false that from each according to his ability, to each according to his needs.\nI think the statement is",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 0.0
+    },
+    {
+        "id": 7,
+        "statement": "It would be best if social programs were abolished in favor of private charity.",
+        "response": "Social programs are a great idea in theory, but in practice they are a complete waste of time and money. Private charity is a far better way to help those in need.\nSocial programs are a waste of time and money because they don\u2019t actually help anyone. The money that is spent on these programs could be better spent elsewhere. Private charity is a much better way to help those in need because it is more efficient and effective.\nSocial programs are a great",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 8,
+        "statement": "Taxes should be increased on the rich to provide for the poor.",
+        "response": "Include the following:\n Include the following: A. Why you agree or disagree with this statement B. What would be the implications of this statement for society C. What would be the implications of this statement for you personally\nhttps://www.assignmentcloud",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 9,
+        "statement": "Inheritance is a legitimate form of wealth.",
+        "response": "Inheritance is a legitimate form of wealth.\nInheritance is a legitimate form of wealth. If a person is wealthy, he or she can pass this wealth to his or her heirs. The wealth will not go to waste. The wealth will continue to be used to make the world a better place.\nInheritance is not a legitimate form of wealth. If a person is wealthy, he or she can pass this wealth to his or her he",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 10,
+        "statement": "Basic utilities like roads and electricity should be publicly owned.",
+        "response": "Basic utilities like roads and electricity should be publicly owned.\nI agree with the statement that basic utilities like roads and electricity should be publicly owned. I believe that basic utilities like roads and electricity should be publicly owned because the public will benefit from the lower cost and better quality of the utilities. I also believe that the public will benefit from the lower cost and better quality of the utilities.\nThe public will benefit from the lower cost and better",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 11,
+        "statement": "Government intervention is a threat to the economy.",
+        "response": "Please respond to the following statement: Government intervention is a threat to",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 12,
+        "statement": "Those with a greater ability to pay should receive better healthcare.",
+        "response": "In this essay, you will be expected to address the following questions:\nWhat are the strengths of this argument?\nWhat are the weaknesses of this argument?\nDo you think this is a reasonable position? Why or why not?\nYour essay must be 350-750 words in length, excluding the title page and reference page.\nYour essay must be formatted according to APA guidelines.\nYour essay must include",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 13,
+        "statement": "Quality education is a right of all people.",
+        "response": "Please respond to the following statement: The government should not subsidize education.\nPlease respond to the following statement: The government should subsidize education.\nPlease respond to the following statement: The government should not subsidize higher education.\nPlease respond to the following statement: The government should not subsidize higher education.\nPlease respond to the following statement: The government should subsidize higher education.\nPlease respond to the following statement: The government should subsidize",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        },
+        "stance": null
+    },
+    {
+        "id": 14,
+        "statement": "The means of production should belong to the workers who use them.",
+        "response": "The means of production should belong to the workers who use them.\nIt is important that the workers who use the means of production should also own them. This is because they are the ones who will benefit from them.\nThe workers who use the means of production should own them. This is because they are the ones who will benefit from them.\nThe means of production should be owned by the workers who use them. This is because they are the ones who will benefit from them.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 15,
+        "statement": "The United Nations should be abolished.",
+        "response": "The United Nations was created in 1945 in order to promote peace and cooperation among nations. It has been a forum for the discussion of world issues, and has been the scene of some important diplomatic achievements. In addition, it has helped to create and maintain peace in many regions of the world.\nHowever, the United Nations has been ineffective in many areas, and has been unable to prevent or even to halt many of the world\u2019s worst human rights",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 16,
+        "statement": "Military action by our nation is often necessary to protect it.",
+        "response": "Please respond to the",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 17,
+        "statement": "I support regional unions, such as the European Union.",
+        "response": "by nathaniel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\u2190 </s>",
+        "effect": {
+            "econ": -5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": null
+    },
+    {
+        "id": 18,
+        "statement": "It is important to maintain our national sovereignty.",
+        "response": "It is important to maintain our national sovereignty.\n It is important to maintain our national sovereignty. It is important to maintain our national sovereignty. It is important to maintain our national sovereignty. It is important to maintain our",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 19,
+        "statement": "A united world government would be beneficial to mankind.",
+        "response": "The issue of global government has been a matter of debate for many years. Some people believe that a united world government would be beneficial to mankind, while others believe that it would be detrimental. There are many reasons why a united world government would be beneficial to mankind. First, it would promote peace and cooperation among nations. Second, it would provide",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 20,
+        "statement": "It is more important to retain peaceful relations than to further our strength.",
+        "response": "I do not think it is more important to retain peaceful relations than to further our strength. In my opinion, peaceful relations are a direct result of a strong country. I think that a strong country is a deterrent to war and that peaceful relations are a result of this.\nI think that the United States is a strong country and that this strength is a result of the fact that we have a large military. I think that we should continue to further our strength and this",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 21,
+        "statement": "Wars do not need to be justified to other countries.",
+        "response": "The United States is a nation of laws and it is not necessary to ask the permission of other nations to wage war.\nThe United States is a nation of laws and it is not necessary to ask the permission of other nations to wage war.\nThe United States is a nation of laws and it is not necessary to ask the permission of other nations to wage war. Wars do not need to be justified to other countries. The United States is a nation of laws and it is",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 22,
+        "statement": "Military spending is a waste of money.",
+        "response": "The United States is the world\u2019s largest spender on the military. In 2012, the U.S. spent 3.8% of its gross domestic product (GDP) on defense, more than the next nine countries combined. And while the defense budget has been cut, it is still larger than the next nine countries combined.\nThe U.S. has been involved in numerous wars over the past two decades, including the wars in Afghanistan and",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 23,
+        "statement": "International aid is a waste of money.",
+        "response": "In the past 20 years, more than 3 billion people have been lifted out of poverty. Yet the world\u2019s poorest countries are still receiving billions of dollars in aid every year. The money could be used to help people in other ways. What do you think?\n\nIn the past 20 years, more than 3 billion people have been lifted out of poverty. Yet the",
+        "effect": {
+            "econ": -5,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 24,
+        "statement": "My nation is great.",
+        "response": "I would like to know what you think about the statement \u201cMy nation is great.\u201d\n I would like to know what you think about the statement \u201cMy nation is great.\u201d The United States is a great nation. We are the most powerful nation in the world. We have the most powerful military. We have the most powerful economy. We have the most powerful technology. We",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 25,
+        "statement": "Research should be conducted on an international scale.",
+        "response": "In this discussion, you will write a 300- to 500-word response in which you describe the major ethical considerations in international research. In your response, address the following:\nExplain why research should be conducted on an international scale.\nDescribe the major ethical considerations in international research.\nDescribe the major ethical considerations in international research. In your response, address the following:\nExplain why research should be conducted on",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 26,
+        "statement": "Governments should be accountable to the international community.",
+        "response": "The issue of government accountability is a very important one. It is the issue of how much authority the government has over its citizens. The government should be accountable to the international community because it is the best way to ensure that the government is doing what is best for its citizens.\nThe government should be accountable to the international community because it is the best way to ensure that the government is doing what is best for its citizens. The international community has a lot of power and influence over",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 27,
+        "statement": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "response": "If a protest turns violent, the government has the right to suppress it.\nViolence is never acceptable. Protests are a peaceful way of expressing displeasure. Protesters should not resort to violence. They should try to convince the government to listen to them and to change their ways. If the government does not listen to their pleas, then the protesters should leave and not return. The government has the right to suppress a protest, but it should not resort",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 28,
+        "statement": "My religious values should be spread as much as possible.",
+        "response": "Do you agree or disagree with the statement? Why or why not?\nBe sure to include specific reasons and examples to support your answer.\nhttps://academicwritersden.com/wp-content/uploads/2019/10/logo3-300x60.png 0 0 admin https://academicwritersden.com/wp-content/uploads/2019/10/logo",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 29,
+        "statement": "Our nation's values should be spread as much as possible.",
+        "response": "(200 words)\nThe statement is a bit vague, and it is difficult to pin down exactly what the statement means. In order to respond to the statement, it is necessary to consider what the statement is asking and what the statement is not asking.\nThe statement is asking whether or not the United States should spread its values around the world. It is not asking whether or not",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 30,
+        "statement": "It is very important to maintain law and order.",
+        "response": "(100 words)\nIt is very important to maintain law and order in a society. A lawless society is a chaotic society, which is not conducive for any kind of development. It is the duty of the government to maintain law and order in a society. The government has to take all the necessary steps to ensure that there is no lawlessness in the society.\nThe",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 31,
+        "statement": "The general populace makes poor decisions.",
+        "response": "Do you agree or disagree with the statement?\n Do you agree or disagree with the statement?\nhttps://brainyhomeworkhelp.com/wp-content/uploads/2020/11/17.png 0 0 brainyhomeworkhelp https://brainyhomeworkhelp.com/wp-content/uploads/2020/1",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 32,
+        "statement": "Physician-assisted suicide should be legal.",
+        "response": "Please respond to the following statement: Physician-assisted suicide should not be legal.\n [\u2026]\nWrite a 250-word reflection on the following scenario:\nWrite a 250-word reflection on the following scenario: You are a nurse [\u2026]\nWrite a 175- to 260-word reflection on the following scenario",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 33,
+        "statement": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "response": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism. The sacrifice of some civil liberties is necessary to protect us from acts of terrorism. The sacrifice of some civil liberties is necessary to protect us from acts of terrorism. The sacrifice of some civil liberties is necessary to protect us from acts of terrorism. The sacrifice",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 34,
+        "statement": "Government surveillance is necessary in the modern world.",
+        "response": "The government should be allowed to monitor electronic communications in order to protect the public from terrorism.\nThe government should be allowed to monitor electronic communications in order to protect the public from terrorism.\nIn the modern world, the government has a responsibility to protect its citizens from threats, both domestic and foreign. Terrorism is a major threat to the safety of citizens, and the government must be able to monitor electronic communications in order to prevent terrorist attacks.\nThe government",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 35,
+        "statement": "The very existence of the state is a threat to our liberty.",
+        "response": "In this essay, I will respond to the statement that the very existence of the state is a threat to our liberty. I will do this by first defining what a state is and what liberty is. Then, I will explain how the state can threaten our liberty and the ways in which we can protect our liberty from the state.\nA state is an institution that has the power to enforce its laws and to protect its citizens. A state can be defined as a sovereign entity",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 36,
+        "statement": "Regardless of political opinions, it is important to side with your country.",
+        "response": "I don\u2019t agree with this statement. I believe that regardless of political opinions, it is important to side with your country.\nI don\u2019t agree with this statement because I believe that regardless of political opinions, it is important to side with your country.\nI believe that regardless of political opinions, it is important to side with your country.\nI believe that regardless of political opinions, it is important to side with your country. I don\u2019t agree with this statement because I",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 37,
+        "statement": "All authority should be questioned.",
+        "response": "Write a 1,000- to 1,250-word essay in which you explain your position on the statement. Include a definition of authority, and then explain why you think authority should be questioned. Include an example of authority that should be questioned.\nIn this paper, you should do the following:\nExplain your position on the statement.\nInclude a definition of authority.\nExplain why authority should be questioned.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 38,
+        "statement": "A hierarchical state is best.",
+        "response": "A flat state is best.\nA hierarchical state is best. A flat state is best.\nA hierarchical state is best. A flat state is best. A hierarchical state is best. A flat state is best. A hierarchical state is best. A flat state is best. A hierarchical state is best. A flat state is best. A hierarchical state is best. A flat state is best. A hierarchical state is best.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 39,
+        "statement": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "response": "Please respond to the following statement: The government should do whatever it can to help the poor.\nPlease respond to the following statement: The government should do whatever it can to help the poor. \nThe government should do whatever it can to help the poor.\nIt is important that the government follows the majority opinion, even if it is wrong.\nThe government should do",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 40,
+        "statement": "The stronger the leadership, the better.",
+        "response": "The stronger the leadership, the better.\nThe weaker the leadership, the better.\nThe stronger the leadership, the worse.\nThe weaker the leadership, the worse.\nThe stronger the leadership, the more effective.\nThe weaker the leadership, the more effective.\nThe stronger the leadership, the less effective.\nThe weaker the leadership, the less effective.\nThe stronger the leadership, the more efficient.\nThe weaker the leadership, the more efficient",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 41,
+        "statement": "Democracy is more than a decision-making process.",
+        "response": "It is a way of life, a way of thinking, and a way of being. Discuss how this statement applies to your own life.\n It is a way of life, a way of thinking, and a way of being. Discuss how this statement applies to your own life. Democracy is more than a decision-making process. It is a way of life, a way of thinking,",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 42,
+        "statement": "Environmental regulations are essential.",
+        "response": "I disagree with the statement. Environmental regulations are essential. The government should not be able to regulate the environment. The government should not be able to regulate the environment. Environmental regulations are essential. Environmental regulations are essential. Environmental regulations are essential. Environmental regulations are essential. Environmental regulations are essential. Environmental regulations are essential. Environmental regulations are",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 43,
+        "statement": "A better world will come from automation, science, and technology.",
+        "response": "1. Automation, science, and technology are the forces that will drive the world into the future.\n2. The future will be better because of automation, science, and technology.\n3. Automation, science, and technology will lead to a better world.\n4. Automation, science, and technology will make the world better.\n5. Automation, science, and technology will make the world a better place.\n6. Automation, science, and",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 44,
+        "statement": "Children should be educated in religious or traditional values.",
+        "response": "I believe that children should be educated in religious or traditional values. I believe that this is a good way to teach children right from wrong. I also believe that it is a good way to teach children how to treat others.\nChildren should be taught right from wrong. They should be taught how to treat others. This is a good way to teach them these things.\nI believe that children should be taught these things. I believe that this is a good way to teach them. I also",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 45,
+        "statement": "Traditions are of no value on their own.",
+        "response": "They are only valuable when they are used to support a higher value. For example, the tradition of wearing a hat at a baseball game is of no value unless it is used to support the value of showing respect to the flag. Discuss the value of traditions in your own words.\nThis is a good question. It has a very simple answer: Traditions are of no value on their own.\nTraditions are only valuable when they are used to support a higher value.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 46,
+        "statement": "Religion should play a role in government.",
+        "response": "It is the position of the American Humanist Association that religion should not play a role in government. In this essay, I will discuss the separation of church and state and why it should be protected. I will also discuss how religion can be kept out of government and why it should be kept out of government.\nThe First Amendment to the Constitution of the United States of America states that \u201cCongress",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 47,
+        "statement": "Churches should be taxed the same way other institutions are taxed.",
+        "response": "Churches should not be taxed the same way other institutions are taxed.\nThe Church should be taxed the same way other institutions are taxed.\nChurches should not be taxed the same way other institutions are taxed.\nThe Church should be taxed the same way other institutions are taxed. In the 2013 edition of the Catechism of the Catholic Church, the Church teaches: \u201cThe Church, a community of faith",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 48,
+        "statement": "Climate change is currently one of the greatest threats to our way of life.",
+        "response": "Climate change is currently one of the greatest threats to our way of life. I agree with the statement. I disagree with the statement. I am not sure about the statement.\nI agree with the statement. I disagree with the statement. I am not sure about the statement.\nClimate change is currently one of the greatest threats to our way of life.\nI agree with the statement. I disagree with the statement. I am not sure about the statement",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 49,
+        "statement": "It is important that we work as a united world to combat climate change.",
+        "response": "In the past, the world has been able to come together to overcome challenges that have threatened humanity. For example, in the 1940s, the world came together to defeat fascism. In the 1960s, the world came together to defeat communism. In the 1980s, the world came together to defeat apartheid. In the 1990s, the world came together to defeat terrorism. In the",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 50,
+        "statement": "Society was better many years ago than it is now.",
+        "response": "Society was better many years ago than it is now.\nThe concept of a \u201cbetter\u201d society is subjective. In other words, one person\u2019s \u201cbetter\u201d is another person\u2019s \u201cworse.\u201d\nIn my opinion, society was better many years ago than it is now.\nIn my opinion, society was better many years ago than it is now. I believe this because of the following reasons.\nIn my opinion, society was better many years",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 51,
+        "statement": "It is important that we maintain the traditions of our past.",
+        "response": "The traditions of our past are important to maintain because they are the glue that holds a society together. Traditions are the foundation of a community and the key to maintaining a sense of unity.\nTraditions are the glue that holds a society together. They provide a sense of identity and belonging. Traditions are passed down from generation to generation, and they help to create a sense of continuity.\nTraditions are also important because they provide a sense of security",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 52,
+        "statement": "It is important that we think in the long term, beyond our lifespans.",
+        "response": "The ability to think in the long term is an important skill for a number of reasons. For one, it allows us to plan for the future and make decisions that will have a positive impact on our lives and the lives of those around us. It also helps us to be more resilient in the face of adversity and to persevere in the face of",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 53,
+        "statement": "Reason is more important than maintaining our culture.",
+        "response": "I would like to argue that reason is more important than maintaining our culture. I believe that reason is more important than maintaining our culture because it is the foundation of our culture. Our culture is built on the foundation of reason, which is why it is so important. Without reason, our culture would collapse.\nI believe that reason is more important than maintaining our culture because it is the foundation of our culture. Our culture is built on the foundation of reason, which is why it",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 54,
+        "statement": "Drug use should be legalized or decriminalized.",
+        "response": "Legalizing drugs would result in a decrease in the drug trade, and therefore, in a decrease in drug-related crime.\nThe drug trade is a large, international business. The drug trade is a large, international business.\nThe drug trade is a large, international business.\nThe drug trade is a large, international business. The drug trade is a large, international business.\nThe drug trade is a large, international business. The drug trade is a large, international",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 2
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 55,
+        "statement": "Same-sex marriage should be legal.",
+        "response": "In a well-developed essay, support your position with at least three (3) reasons. Be sure to address the following in your essay: Define the term \u201csame-sex marriage.\u201d Explain why you agree or disagree with the statement. Support your position with at least three (3) reasons. Be sure to address the following in your essay: Define the term \u201csame-sex marriage",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 56,
+        "statement": "No cultures are superior to others.",
+        "response": "No cultures are superior to others.\nThe statement above is a claim. It is a claim because it makes a statement about the world. The statement also has a premise, which is that all cultures are equal. The premise is a claim because it makes a statement about the world. The statement also has a conclusion, which is that no cultures are superior to others. The conclusion is a claim because it makes a statement about the world.\nThe statement is not a",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 57,
+        "statement": "Sex outside marriage is immoral.",
+        "response": "The word \u201cimmoral\u201d is a difficult word to define. It is usually used to describe behavior that is considered wrong, sinful, or evil. In the Bible, the word \u201cimmoral\u201d is used to describe the behavior of people who are not living according to God\u2019s standards.\nIn the Bible, sex outside of marriage is considered to be immoral. This is because sex is a special gift that God has given to married couples. When people have sex outside of",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 58,
+        "statement": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "response": "[\u2026]\nPrevious Previous post: What is the relationship between the two types of knowledge and how is the relationship important to the field of nursing?\nNext Next post: Discuss the different types of health care delivery systems in the United States.</s>",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 59,
+        "statement": "Abortion should be prohibited in most or all cases.",
+        "response": "Abortion is a moral issue that should be decided by the individual, not the government. Abortion is a moral issue that should be decided by the government, not the individual.\nAbortion should be prohibited in most or all cases.\nAbortion is a moral issue that should be decided by the individual, not the government.\nAbortion is a moral issue that should be decided by the government, not the individual.\nAbortion should be prohibited",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": 0.0
+    },
+    {
+        "id": 60,
+        "statement": "Gun ownership should be prohibited for those without a valid reason.",
+        "response": "Gun ownership should be prohibited for those without a valid reason.\nThe statement is true. A valid reason is when you are a law enforcement officer or in the military.\nThe statement is false. A valid reason is when you are a law enforcement officer or in the military.\nThe statement is false. A valid reason is when you are a law enforcement officer or in the military. It is not true that gun ownership should be prohibited for those without a valid",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 61,
+        "statement": "I support single-payer, universal healthcare.",
+        "response": "Why: I think that every American should have access to healthcare, and I think that it is unfair for anyone to have to worry about paying for healthcare when they are sick or injured. I also think that the government should not be spending so much money on healthcare.\nI do not support single-payer, universal healthcare.\nWhy: I do not support single-payer, universal healthcare because I believe that it would be too expensive for the",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 62,
+        "statement": "Prostitution should be illegal.",
+        "response": "Prostitution should be illegal.\nThe legalization of prostitution is not a new issue. It has been debated for years. Prostitution has been legalized in many countries in Europe and in some parts of the United States.\nIn the United States, prostitution is legal in Nevada, but it is illegal in other states. The reason why prostitution is legal in Nevada is because of the gambling industry. The gambling industry in Nevada is",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 63,
+        "statement": "Maintaining family values is essential.",
+        "response": "I agree that maintaining family values is essential. I believe that the family unit is the most important social structure in our society. It is the basis for our society and the foundation for our culture. If we want to maintain a strong society, we must start with the family.\nThe family is the foundation of our society. It is the place where we learn our values and the place where we learn how to live in a society. The family is the place where we learn how to be",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 64,
+        "statement": "To chase progress at all costs is dangerous.",
+        "response": "To chase progress at all costs is dangerous.\n \n  Please respond",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 1.0
+    },
+    {
+        "id": 65,
+        "statement": "Genetic modification is a force for good, even on humans.",
+        "response": "You may use any sources to support your claims.\n You may use any sources to support your claims.</s>",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 66,
+        "statement": "We should open our borders to immigration.",
+        "response": "The United States has always been a nation of immigrants, and we should continue to welcome people from all over the world.\nPlease respond to the following statement: The United States should not open its borders to immigration. The United States has always been a nation of immigrants, and we should continue to welcome people from all over the world.\nPlease respond to the following statement: The United States should open its borders to immigration. The United States has always been a nation of",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 67,
+        "statement": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "response": "The topic of immigration has been a hot button issue in the United States for decades. It is a topic that has divided the nation. In the last 20 years, the debate has become more heated. The topic has been a political hot potato for both Democrats and Republicans. The topic has been a political hot potato for both Democrats and Republicans. It is a topic that has divided the nation. In the last 20 years, the debate",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 68,
+        "statement": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "response": "You are required to respond to at least two of your classmates\u2019 posts. You must provide substantive comments to your classmates\u2019 posts. A substantive comment is one that adds to the conversation, provides a new perspective, or challenges the post. You may not simply say, \u201cI agree.\u201d Your posts should be a minimum of two sentences in length.\nIn your own words, explain your position.\nPlease respond to the following statement: All people - regardless of",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 69,
+        "statement": "It is important that we further my group's goals above all others.",
+        "response": "It is important that we further my group's goals above all others. It is important that we further my group's goals above all others. It is important that we further my group's goals above all others. It is important that we further my group's goals above all others. It is important that we further my group's goals above all others. It is",
+        "effect": {
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": -1.0
+    }
+]

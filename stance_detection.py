@@ -1,10 +1,9 @@
 import glob
 import json
 import os
-from datetime import datetime
 from tqdm import tqdm
 from dotenv import load_dotenv
-from api import gemini, mistral, openai, claude
+from api import openai
 
 load_dotenv()
 
@@ -34,8 +33,7 @@ def update_stance(statements, stances):
 
 
 if __name__ == "__main__":
-    # jsonl_files = glob.glob("response/*/*.jsonl")
-    jsonl_files = glob.glob("response/gemini-pro/*.jsonl")
+    jsonl_files = glob.glob("response/*/*.jsonl")
 
     for file_path in tqdm(jsonl_files, desc="Detecting stances"):
         statements = json.loads(open(file_path, "r", encoding="utf-8").read())

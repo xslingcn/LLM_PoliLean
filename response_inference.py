@@ -9,12 +9,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-RESPONSE_REPEAT = os.getenv("RESPONSE_REPEAT")
-MAX_NEW_TOKENS = os.getenv("RESPONSE_MAX_NEW_TOKENS")
+RESPONSE_REPEAT = int(os.getenv("RESPONSE_REPEAT"))
+MAX_NEW_TOKENS = int(os.getenv("RESPONSE_MAX_NEW_TOKENS"))
 PROMPT = os.getenv("RESPONSE_PROMPT")
 
 TEMPLATE_PATH = "response/template.jsonl"
-MODELS_PATH = "test/models.jsonl"
+MODELS_PATH = "response/models.jsonl"
 DEVICE = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 
