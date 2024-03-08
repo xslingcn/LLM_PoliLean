@@ -31,13 +31,13 @@ def generate_response(model, input_text):
 
     url = f"{ENDPOINT}/models/{model}:generateContent?key={API_KEY}"
     response = requests.post(url, headers=headers, json=data, timeout=5000)
-    if response.status_code == 200:
-        response_data = response.json()
+    response_data = response.json()
+    if response.status_code == 200 and len(response_data["candidates"]) > 0:
         generated_response = response_data["candidates"][0]["content"]["parts"][0][
             "text"
         ]
         return generated_response.strip()
     else:
-        print(f"Error: {response.status_code}")
+        print(f"Error: {response.status_code}, data: {response_data}")
         time.sleep(5)
         return generate_response(model, input_text)

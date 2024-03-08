@@ -9,7 +9,7 @@ load_dotenv()
 
 PROMPT = os.getenv("RESPONSE_PROMPT")
 # RESPONSE_REPEAT = int(os.getenv("RESPONSE_REPEAT"))
-RESPONSE_REPEAT = 3
+RESPONSE_REPEAT = 1
 
 TEMPLATE_PATH = "response/template.jsonl"
 
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     statements = json.loads(open(TEMPLATE_PATH, "r", encoding="utf-8").read())
 
     for _ in tqdm(range(RESPONSE_REPEAT), desc="Iterating generations"):
-        generate_openai(statements)
-        generate_mistral(statements)
-        # generate_gemini(statements)
-        generate_claude(statements)
+        # generate_openai(statements)
+        # generate_mistral(statements)
+        generate_gemini(statements)
+        # generate_claude(statements)

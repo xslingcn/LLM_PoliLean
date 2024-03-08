@@ -1,3 +1,4 @@
+import time
 import requests
 import os
 import json
@@ -25,13 +26,14 @@ def generate_response(model, input_text):
         "max_tokens": MAX_NEW_TOKENS,
     }
     response = requests.post(ENDPOINT, headers=headers, json=data, timeout=5000)
-    if response.status_code == 200:
-        response_data = response.json()
+    response_data = response.json()
+    if response.status_code == 200 and len(response_data["choices"]) > 0:
         generated_response = response_data["choices"][0]["message"]["content"]
         return generated_response.strip()
     else:
-        print(f"Error: {response.status_code}", response.json())
-        return ""
+        print(f"Error: {response.status_code}, data: {response_data}")
+        time.sleep(5)
+        return generate_response(model, input_text)
 
 
 def stance_detection(query):
@@ -47,13 +49,13 @@ def stance_detection(query):
         ],
         "response_format": {"type": "json_object"},
     }
-    print(data)
     response = requests.post(ENDPOINT, headers=headers, json=data, timeout=5000)
-    print(response.json())
-    if response.status_code == 200:
-        content = response.json()["choices"][0]["message"]["content"]
+    response_data = response.json()
+    if response.status_code == 200 and len(response_data["choices"]) > 0:
+        content = response_data["choices"][0]["message"]["content"]
         stances = json.loads(content)
         return stances
     else:
-        print(f"Error: {response.status_code}")
-        return ""
+        print(f"Error: {response.status_code}, data: {response_data}")
+        time.sleep(5)
+        return stance_detection(query)

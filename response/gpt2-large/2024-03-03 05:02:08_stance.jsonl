@@ -1,0 +1,842 @@
+[
+    {
+        "id": 0,
+        "statement": "Oppression by corporations is more of a concern than oppression by governments.",
+        "response": "To date, no significant corporations have responded to your request for information.\nIf there exists a group that has responded, please respond to this answer and include a link to a recent press release or other notice of their status. If you have information regarding the status of others who may want to provide you information about their involvement in this situation, please contact us at contact@openthebookfund.org.\nIf you would like to receive more information, or if you would like to receive additional materials",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 1,
+        "statement": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "response": "Your response:\nTo your question, \"Do more women need to know about their bodies?\" I reply:\nYour response:\nIs it legal for you to sell drugs? Is it legal to buy drugs from drugstores? Is it illegal for you to sell drugs?\nIs it true that in some U.P. states, it is legal to sell the illegal drug?\nIs it true that the selling of drugs by children in your state is permissible?\nIf it is not",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 2,
+        "statement": "The freer the markets, the freer the people.",
+        "response": "This is why we are fighting for freedom, even when it takes a hard, physical, and sometimes dangerous fight to get it.\u00a0\nWe are fighting for freedom the same way that we fought to make sure that no one was allowed to have the ability to control others using their own money.\u00a0 Freedom was always about liberty, not about \"freedom for the market\".\u00a0 Freedom is about freedom for all, not one part of the population.\u00a0\nWith freedom comes the ability to be free",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 3,
+        "statement": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "response": "I support the federal government's proposed budget measures to provide funding to the long-term unemployed and under-employed. They will create more jobs and boost tax revenues and reduce the deficit.\nThe Canadian government has responded to the OECD recommendations, which are in line with the Canada Mortgage and Housing Corporation's and the Canadian Institutes of Health's recommendations.\nPlease follow the link to the OECD website with additional information and support: http://www.coe.int/cmi/about/national_ag",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 4,
+        "statement": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "response": "None provided\nResponsibilities:",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 5,
+        "statement": "Tariffs on international trade are important to encourage local production.",
+        "response": "",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 6,
+        "statement": "From each according to his ability, to each according to his needs.",
+        "response": "* * * * *\nDear Senator Collins: Thank you.\nMy name is John Pinsky. I'm a medical doctor and a retired Army general. I've watched all kinds of illnesses come forward and I've come to recognize that our country is in deep trouble with respect to the Ebola virus, and I'm here today to make my observations and thoughts on the national crisis.\n[The disease has killed 2,500 people, mainly African-Americans from Liberia and Sierra Leone, about the",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 7,
+        "statement": "It would be best if social programs were abolished in favor of private charity.",
+        "response": "You could probably live on an island without even caring for animals, but if you want to be able to eat meat you would have to change your lifestyle.\nYou could still raise animals to raise food, but they probably won't be as humane as they could have been.\n\nIt is obvious why this is happening. There is enough money in the system to take care of people without trying to change how they are brought up.\n\nWe live in a society where people get what they deserve at work",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 8,
+        "statement": "Taxes should be increased on the rich to provide for the poor.",
+        "response": "Your answer is not satisfying to me, and your lack of insight is disturbing as well.\nIn contrast to your other responses (such as your failure to acknowledge the difference between taxes and other government revenue, and the hypocrisy of you stating that a socialist has no right to object to his own government raising taxes) you make these very basic statements. You know nothing on income distribution, wealth distribution or poverty relief. You also fail to explain why the very rich, the \"working poor\", are \"",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 9,
+        "statement": "Inheritance is a legitimate form of wealth.",
+        "response": "I have a very solid case. However, I also think your case has several flaws. This is a complicated case to make. As I stated I know very well that the \"family wealth\" is not the same as \"individual wealth\". The inheritance is a legitimate form of wealth.\nYou state:\u00a0 \"The issue of inheritance is more complicated than you would think. I am not sure why people assume that inheritance is the reason for all the wealth we see around us. Inheritance can",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 10,
+        "statement": "Basic utilities like roads and electricity should be publicly owned.",
+        "response": "Question 1: Do you think it should be the responsibility of states to provide basic utilities like roads and electricity to all of their citizens? Question 2: Given that roads and electricity are owned and operated by local governments, would it be reasonable for states to provide these services for free or for a fee?\nYour response:\nQuestion 3: What do you think is more likely to cause crime, lack of transportation facilities and pollution to be done away with?\nYour response:\nQuestion 2:",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 11,
+        "statement": "Government intervention is a threat to the economy.",
+        "response": "It's not the economy, it's the jobs. The jobs that are disappearing, the people who are being hurt, are at the very bottom of the earnings pyramid; they're working two or three good jobs a week and trying to pay their rent,\" she said. The report estimates that the \"halo effect\" of low wages is being felt by the middle fifth, with young workers losing ground fast. Workers in high income jobs are getting a big boost in pay, with many earning over 50",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 12,
+        "statement": "Those with a greater ability to pay should receive better healthcare.",
+        "response": "(Choose one) The current system is broken. The current system is not fair. The current system is a waste of resources. The current system is not addressing the real problems in healthcare. The current system is not meeting the real needs of patients. The current system hurts my family. There are too many people who have no access. Doctors don't have a lot of funds. They feel helpless. This is not fair. I'm looking for a better solution. Thank you in advance.\nPlease",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 13,
+        "statement": "Quality education is a right of all people.",
+        "response": "\u2022 I agree with the statement that quality education is a right of all people.\nIn the world today, quality education is considered a priority of the United Nations Economic and Social Council.\nIn September 2014, UNESCO has launched a pilot program \"A World-Class Education for All Initiative\" to develop a framework for developing and verifying the quality of education.\nUNESCO launched \"A World-Class Education for All Initiative\" to develop a framework for developing and verifying the quality of education in various",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 14,
+        "statement": "The means of production should belong to the workers who use them.",
+        "response": "1. What rights do workers have over their means of production? How should labor be viewed as a part of production, or as a \"disposition\"? Is there something in the law that specifically applies to the legal relations that labor has to its means of production? 2. What is the basis of the right of a worker to use his means of production? Is it the same for all workers or is it related to particular types of labor?\nYour response: 1. There are many kinds of",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 15,
+        "statement": "The United Nations should be abolished.",
+        "response": "As the first country to establish an international tribunal to fight impunity for crimes against humanity in recent history, the United States strongly supports the Universal Periodic Review of the United Nations in 2017. The Universal Periodic Review will ensure the United Nations maintains its international obligations and to focus on serious threats to peace and security in the world.\nThe United States takes very seriously its responsibility to uphold international humanitarian law and to hold perpetrators of war crimes accountable. To that end, the United States has passed multiple critical",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 16,
+        "statement": "Military action by our nation is often necessary to protect it.",
+        "response": "Your Name: Your Contact Information:\n\n\n____________________________________________ ______________________\n\nWhat are the implications for U.S.-Israeli relations?\n\n1. Israel, facing significant threats from Iran and Syria, is looking for a better and more cooperative relationship with the U.S.\n\n2. The Obama administration's recent nuclear deal with Iran could open diplomatic opportunities for Israeli-American ties.\n\n3. The United States needs to address the root causes of the conflict and offer",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 17,
+        "statement": "I support regional unions, such as the European Union.",
+        "response": "A regional union is a union in which workers are able to organize in accordance with their own interests and in the interests of their workers throughout the region. I am opposed to a more national \"social contract\" from Brussels. I am opposed to any compromise with the euro. I am opposed to any \"travelling agreement\", which would give even the slightest incentive for the German states to sign the euro. I am against the introduction of the euro. My country is in the euro, but there is",
+        "effect": {
+            "econ": -5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 18,
+        "statement": "It is important to maintain our national sovereignty.",
+        "response": "The best way to achieve this balance between the national interests of all those living in a united Canada is through respect for the sovereignty and territorial integrity of each and every one of these peoples. The federal framework is clear that Canada is a single nation-state- that is governed by the Constitution and is not a collection of independent sovereign nations- and that Canada has the right and duty under the UN Declaration on the Rights of Indigenous Peoples to respect the rights of aboriginal peoples not recognized under Canadian law. The",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 19,
+        "statement": "A united world government would be beneficial to mankind.",
+        "response": "\"F--- you, You're not going to convince me! You're a coward!\"\n* * *\nThe first thing is that my response to your statement.\n1. No, I do not see the UN as a \"united world government.\"\n2. Let me define that with some concrete examples:\n\"United governments\" are those governments that are organized in an autocratic, autocratic type of government that, as a result of their power, dominate most other governments and are",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 20,
+        "statement": "It is more important to retain peaceful relations than to further our strength.",
+        "response": "I welcome you to Israel. We do not view a \"two states/two peoples\" reality. All Israelis must be equal. What happened to Jerusalem was caused by Palestinians, not Jews - the entire Jewish people is under attack from those who wish Israel to be destroyed. The only solution is to recognize that Jerusalem is the capital of Israel. I also welcome the support of international Jewish organizations in demanding that Palestinians recognize the right of Israel to exist as a Jewish state, but you will tell us our demands",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 21,
+        "statement": "Wars do not need to be justified to other countries.",
+        "response": "No. They have to be the result of something of which they are aware. No matter how little information there may be, one country has to have the idea of an adversary or an enemy, but we are not required to see all, or all to all. No country need justify an act to another country if they are aware of it, and have a means of preventing its occurrence.\nIf a country is so sure of the existence of their enemy in advance that they have decided that the war",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 22,
+        "statement": "Military spending is a waste of money.",
+        "response": "You just answered what we asked you to respond to. We want this country to be strong, and our enemies to know we are powerful. We have the ability to protect those who are most vulnerable, like our wounded warriors in the military, our veterans in uniform, and our citizens at home. But we cannot waste money on needless programs, or on a government that spends more money on military programs than they bring in from taxes. This is especially true when it comes to our nation's defense. Our",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 23,
+        "statement": "International aid is a waste of money.",
+        "response": "\"When you are an individual worker, you can take your life, or your health.\"\nI want a different world to exist. I believe that change takes a community and organization. To be effective, a community needs to be involved. The United Nations does not exist. The way we are funded is from donations and tax dollars that can be reallocated to improve our communities. Unfortunately the world is being ruled by money over people. This, in turn, leads to corruption that cannot be",
+        "effect": {
+            "econ": -5,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 24,
+        "statement": "My nation is great.",
+        "response": "\"Thank you and good job. The nation feels good about themselves.\"\n\n\nYou cannot respond to the following statement: The United States has a proud history in the world. The United States will be great again. Your response: \"Thank you very much\".\n\n\nYou will know your country is great when all the people of the nation feel their nation is great. The question, \"Are you great?\" can be answered in two ways. \"You're not so great,\" and then \"You",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 25,
+        "statement": "Research should be conducted on an international scale.",
+        "response": "\"The information you are sending contains information that is unverified. When the source of information is unreliable, the source cannot be used to predict an event.\nThe government of the United States should stop wasting taxpayer money on such irrelevant information.\"\n\"These types of false information do little to help prepare people for reality and can even be used by those with ulterior motives to harm those who seek to protect American values.\"\n\"If our government would only give our country some credit for the amazing",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 26,
+        "statement": "Governments should be accountable to the international community.",
+        "response": "Your name: Your phone number: A public link to your public comment or response will be emailed to you shortly. If this is a non-personal response please do not include your full name, because it will be automatically uploaded.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 27,
+        "statement": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "response": "\"It isn't up to me to decide whether or not to defend someone who has broken the law in order to prevent it from happening again, or whether or not they should be killed. That's a matter for the police and government. And since when do police have the right to decide what constitutes a terrorist when you don't even know who they are?\"\nYour response: \"The U.S. government has a long history of helping people who use violence to stop evil. We cannot be",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 28,
+        "statement": "My religious values should be spread as much as possible.",
+        "response": "Please visit this link to the online survey, and fill in the following questions and answers for your religion:",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 29,
+        "statement": "Our nation's values should be spread as much as possible.",
+        "response": "Please give us an \"A\" on the scale of American society.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -5,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 30,
+        "statement": "It is very important to maintain law and order.",
+        "response": "I understand. However, a recent spike in gun violence in Baltimore City, with incidents at Mondawmin Mall and the Inner Harbor, needs further thought. Baltimore's violent crime rate has increased by 18% since the beginning of this year, and while crime overall remains an issue, it appears to be tied to gun violence. Baltimore County's total crime rate is almost double the city's and nearly four times the county's average crime rate. The county is also the site of a rash of violent crimes",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 31,
+        "statement": "The general populace makes poor decisions.",
+        "response": "\"Not me\"\nIf you could change one aspect of life or people in any way, what would it be?\nIf you could change one thing to a better situation, what would it be?\nThank you for your time.\nSincerely,\n(Optional) If you would give a speech (public, personal) on one or more of the following topics; (Choose one): What do you love most about living in a world where it is safe for you to make real",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 32,
+        "statement": "Physician-assisted suicide should be legal.",
+        "response": "No. When you talk about a \"right\" to die, you are talking about a \"freedom\" to make a choice. It's that simple. If you think that people can simply die any way that they want, they're probably wrong about that. In the case you quote, it was a \"life-threatening medical condition\" (not actually a death sentence). They needed to be sedated, and then they had to go to a hospital. I think this is a case where the",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -1.0
+    },
+    {
+        "id": 33,
+        "statement": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "response": "All-too-often, in the name of fighting terrorism, privacy is a weapon against democracy -- and the rights of Americans are less powerful and protected because of it.\nSincerely,\nRichard W. Painter\nThe White House Office of Management and Budget\n(The opinions expressed in this notice are those of the authors and do not necessarily reflect those of the United States Government. The views expressed are solely those of the authors and do not necessarily reflect those of the Federal Government.)",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 34,
+        "statement": "Government surveillance is necessary in the modern world.",
+        "response": "What are you hiding? In the modern world, we have more rights than we realize. We do not have to live like the old European Union, where a government is able to watch all of our communications and search all of our electronic devices. And you, being the US government, have your own system of mass surveillance. I understand that I have no right to go to a court and have the Constitution (and the Bill of Rights) thrown at me. But your Constitution is so much stronger!",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 35,
+        "statement": "The very existence of the state is a threat to our liberty.",
+        "response": "I stand by everything I said in response to Steve Forbes. There is no possibility that the Federal Government is the source of that threat. Any such claim is an assertion of fact, and cannot be accepted as true for any other purpose!\n\n\nYour response: \"The very existence of the state is a threat to our liberty.\" You said it yourself: \"The threat of the federal government is growing.\" Do you really mean that every threat comes from below? That it is only from the government?",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 36,
+        "statement": "Regardless of political opinions, it is important to side with your country.",
+        "response": "I am deeply troubled by this image.\n\nYour response:\n\n\nWe urge you to investigate further.\n\nYour response:\n\n\nBased on these revelations, we believe our country's leadership needs to work together to build a better world.\n\nYour response:\n\n\nThis is unacceptable.\n\nYour response:\n\n\nAs a United States citizen, I strongly disagree with your actions.\n\nYour response:\n\n\nPlease immediately withdraw your name from consideration as a potential",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -5
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 37,
+        "statement": "All authority should be questioned.",
+        "response": "For over 5 and decades government officials, politicians, and military leaders have suggested that U.S. armed forces would defend the sovereignty of the United States if a foreign government attacked our country. Today, we all again stand up and assert that no such threat exists, and we stand ready to defend ourselves.\nIn contrast to this position (and the previous statements, which did not make clear that there would be armed action), this statement calls for the United States to not be a victim of foreign aggression",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 38,
+        "statement": "A hierarchical state is best.",
+        "response": "It has nothing to do with your beliefs about how other humans behave, or how you see the world.\nIt has nothing to do with your knowledge of the science that supports and challenges the existing state.\nWhy do you reject this statement? Your response:\nYour acceptance of that statement would show that you have no conception of what I'm talking about. It's not a matter of personal identity, it's a matter of morality. Is it any of your business what my beliefs are?",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 39,
+        "statement": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "response": "In general, public opinion changes quickly. In order to understand how public opinion will change, and what it means for policy in the future, it is essential to understand trends in public opinion and the various factors that influence it, such as changes in political and economic power and influence in different regions and countries. The data we currently have show that our government has the ability to take decisions at the national and federal level, despite what it has been told to do. However, despite our best efforts, public",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 40,
+        "statement": "The stronger the leadership, the better.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 41,
+        "statement": "Democracy is more than a decision-making process.",
+        "response": "If you do not support the current election, I will not vote again.\nThe election for the next District Judge takes place between May 2nd and May 30th. That means you may already be voting now and may want to vote in a couple of more seats down the road.\nThe deadline for the next election is February 8th. If you are eligible to vote, I encourage you to register to vote and cast your ballot this Saturday, February 7th, 2015. Be sure to review",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 42,
+        "statement": "Environmental regulations are essential.",
+        "response": "Your statement: Your full name Please specify your age",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 43,
+        "statement": "A better world will come from automation, science, and technology.",
+        "response": "1, 3 (I'll write back with your first answer) The question on the original thread is about the value of the human imagination. You cannot create this from an automation. You must also build it from your own imagination, not the one created by another human being. But you cannot rely on the fact that another human person created his imagination from data and then put together a human-centered program. This doesn't give any useful and practical guarantee to others that you will find things like the above",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 44,
+        "statement": "Children should be educated in religious or traditional values.",
+        "response": "As a parent of a little girl in a faith-based program, and as a former atheist, there is much that I do not like about religious-based practices. However, for the most part, my daughter is well in the church. She is encouraged to spend her free time reading, thinking and talking about faith through her Bible studies.\nThat being said, I think kids should be taught the facts and values of the world around them in an age-appropriate manner. I'm happy",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 45,
+        "statement": "Traditions are of no value on their own.",
+        "response": "We believe the most important aspect of traditions is the relationship they establish with other generations and with the people who are directly affected by them.\nOur response: \u00a0 The same principle is at work throughout the cultural landscape and can be found in many different cultures.\u00a0 We believe that in a time of increasing globalization, especially of the intangible world of life, there is need for a more direct relationship with future generations.\u00a0 There are many cultural traditions with clear links to the present and there are some we would",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 46,
+        "statement": "Religion should play a role in government.",
+        "response": "",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 47,
+        "statement": "Churches should be taxed the same way other institutions are taxed.",
+        "response": "This tax is unfair because: 1. Churches do not hire people to do this work. Rather, churches hire individuals to perform the work, whether you like it or not. 2. Churches receive no additional revenue from the tax. In 2012, a report by the American Enterprise Institute showed that it actually would cost churches $5.7 billion to adjust the tax.3 3. It would be economically devastating to churches to pay for the work required to comply with the new law - we could not afford",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 48,
+        "statement": "Climate change is currently one of the greatest threats to our way of life.",
+        "response": "We are an inclusive world. We stand with all those who have been impacted by climate change and take their concerns to heart. We also believe that this is a global and not an individual issue. Our goal is to ensure that all those impacted by climate change receive the support they need. We are proud that our commitment to sustainable development includes working with communities that are at high risk of natural disasters.\nAt the same time, we recognize that the challenges we face are enormous and that the climate issue",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 49,
+        "statement": "It is important that we work as a united world to combat climate change.",
+        "response": "We would like to see a united and effective response from governments, non-governmental organizations, businesses, philanthropy, and people of good will. We call on our leaders to make good on the commitments they make and to address the threat they pose to society. To that end, Global Warming Solutions is launching the first ever Climate Pledge.\n\n\nThe Climate Pledge is 100% voluntary. We ask anyone to sign up with one of our voluntary campaigns or not. There is no need to",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 50,
+        "statement": "Society was better many years ago than it is now.",
+        "response": "It is not just the quality of its journalism that has changed, but rather the quality of its editorial policy. Since its formation as a newspaper in the late 1920s, The Atlantic has developed an independent editorial policy that was consistent with the interests of its readership but also with the principles of a self-governing society.\nThe Atlantic has always been a conservative publication while also recognizing that the political left and right are not mutually exclusive. It is a very traditional and conservative publication.\nFrom",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 51,
+        "statement": "It is important that we maintain the traditions of our past.",
+        "response": "Your answers may be included in a paper or published manuscript or appear as an interview in \"American Historical Review\" (\"APA\").\nIt is crucial to our history that our people continue to identify their heritage. It is important to the history of our nation that we all identify ourselves as Americans. Our government provides many advantages for all Americans to identify themselves as we may choose \u2014 and this is especially important in the United States, where the vast majority of people identify themselves as \"American.\"\nWe",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 52,
+        "statement": "It is important that we think in the long term, beyond our lifespans.",
+        "response": "It is crucial that we act in the future. It is essential that we not miss the future. If we fail to do so, we will fail to act in the future.\nThank you for your time.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 53,
+        "statement": "Reason is more important than maintaining our culture.",
+        "response": "\"I'm so so so sorry we have to treat you like that. I was in the Army for 18 years. If I knew I could find a job like that, I would have gotten out sooner.\"\n(Note: Don't be an Asshole)\nThe Army \"is a tough environment, but if you have the right attitude, work hard, and play hard, there will be opportunities to move up and you will see what our Army has to offer. All you have to do",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 54,
+        "statement": "Drug use should be legalized or decriminalized.",
+        "response": "We are opposed to the legalization of illegal drugs and we don't believe any American should have to be forced to pay the same price as people in other countries.\nYour response: It is well-established that marijuana is harmful. Marijuana prohibition hurts public health, and we oppose it.\nYour response: Our criminal justice system is based on the premise that non-violent drug offenses are inherently violent, thus we have not been able to develop a comprehensive system that considers people's backgrounds, social backgrounds,",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 2
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 55,
+        "statement": "Same-sex marriage should be legal.",
+        "response": "Your response: Your response: Your response: 1 2 3 4 5",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": null
+    },
+    {
+        "id": 56,
+        "statement": "No cultures are superior to others.",
+        "response": "\"No cultures are superior to others.\"\nYour response: \"No cultures are superior to others\"\nYour response: \"No cultures are superior to others\"\n...and don't you worry -- you have a whole lot of options left\nYour response: \"No cultures are superior to others.\"\nYour response: \"No cultures are superior to others.\"\nYour response: \"No cultures are superior to others\"\nYour response: \"No cultures are superior to others\"\nYour response:",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 57,
+        "statement": "Sex outside marriage is immoral.",
+        "response": "I want to help those who have hurt in their lives. I have a wife and a child. They are both amazing and will grow up to be great people. I have never asked to marry and I never ask people to marry for money. I would never ask someone to marry for the love or to put money in a marriage or a marriage for money. I would not ask for money for anything in life other than health, because I live in a small town and can only afford to buy what",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 58,
+        "statement": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "response": "\"Curious about your statement. Well, since we're supposed to be fighting for the right of all peoples from all parts of the world to be able to come to our country, our responsibility is to help as many of these immigrants as we can (but) I agree with what you're saying. I think it would be much easier if we all just had our passports and tried to live without the cultural customs and habits of Europe. However, it is not our responsibility to get everyone living within",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 59,
+        "statement": "Abortion should be prohibited in most or all cases.",
+        "response": "Let's talk about you.\nIn a 2004 article published in the Journal of the American Medical Association (JBMA), a group of researchers summarized evidence supporting the hypothesis that abortion is dangerous. One common feature observed, the authors observed, is that women who decide to have an abortion are typically more worried about fetal mortality than other women. Additionally, \"more than half of women who have abortions report that they were worried about their fetus,\" they write. They add, \"in addition, there has been",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 60,
+        "statement": "Gun ownership should be prohibited for those without a valid reason.",
+        "response": "Please check out the \"A\" Guide or the \"Z\" Guide. Do not click any part if you are not sure. Thank you.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 61,
+        "statement": "I support single-payer, universal healthcare.",
+        "response": "",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": null
+    },
+    {
+        "id": 62,
+        "statement": "Prostitution should be illegal.",
+        "response": "Prostitution is illegal because it's a woman's right to choose.\nYour response: Prostitution is illegal because prostitution is a man's right to chose.\nYour response: Prostitution is illegal because it violates the right to privacy guaranteed by the law of the land.\nYour response: Prostitution is illegal because it's a man's right-and also because it violates the right of men to be protected by that right.\nYour response: Prostitution is illegal",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 63,
+        "statement": "Maintaining family values is essential.",
+        "response": "None needed. I love my parents. I would kill them if they were ever caught killing their own children.\nStep 4: Make a commitment to do something, whether it's to get married, have children, etc. For the next ten years, make an ongoing practice of taking steps to make your child and you proud, and you're done! You are now doing great parenting, and they are all the better for it.\nStep 5: Now that you've gotten married, have kids",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": null
+    },
+    {
+        "id": 64,
+        "statement": "To chase progress at all costs is dangerous.",
+        "response": "I fully understand the need to protect the environment and I fully support that. However, we cannot allow the continued destruction of the Great Barrier Reef and other natural resources to continue unchallenged.\nPlease reply here with your thoughts by Saturday 15 March.\nPlease comment on the question I've asked. Please reply using their comments section here:\nThe results of this survey will be made available in the paper in March 2014\nThe results of this survey will be made available in the paper in February 2014",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 65,
+        "statement": "Genetic modification is a force for good, even on humans.",
+        "response": "You are right if you think an extreme form of genetic modification is bad for anything. As has also been explained, the extreme form may be okay. The reason has to do with the fact that the ultimate goal is to reduce the burden of diseases in the human population. It is a very powerful tool for this end. But to achieve this end, you're going to have to put all these different elements together in the best possible way: You will have to be careful about what you take, or",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 66,
+        "statement": "We should open our borders to immigration.",
+        "response": "Please provide a valid email and we can contact you. We will be happy to review your inquiry.\nI will follow up with the following: Thanks,\nThanks for putting this together. I will be happy to answer any questions you may have later this week. (Not sure when but if I see your comment I will change it ASAP.) Thanks.\nI found this great article on one of our Facebook pages. We do have a page called \"Let The Kids In\" where you can put",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 0
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 67,
+        "statement": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "response": "The above statement is a strong sign of disrespect for foreign governments and their citizens. This is especially unacceptable in the case of Mr Bush's response to an attack on the US Embassy in Benghazi, Libya.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        },
+        "stance": -0.5
+    },
+    {
+        "id": 68,
+        "statement": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "response": "Thanks for taking the time to respond. This isn't a matter of discrimination, hate, or bigotry. It is about providing accommodations to a person's disability. You're a good person and I appreciate your efforts.\nThis is probably the first thing you think. So a person with a disability can be forced to do work they just can't do? Doesn't that violate their right to self-determination?\nActually no. It is the opposite. A person with a disability can be forced to",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        },
+        "stance": 0.5
+    },
+    {
+        "id": 69,
+        "statement": "It is important that we further my group's goals above all others.",
+        "response": "Hello!\nThe mission of the group is to fight against this disease using methods found in Islam and Christianity to protect the planet from this disease. There is no one better equipped to tackle this disease than all of you. I am an atheist. But, I think that atheists do an excellent job of tackling some of these problems with their own ideas.\nWhat does Islam have to do with this? Well, I am sure many who are atheists will say something along the lines of: \"I",
+        "effect": {
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        },
+        "stance": -0.5
+    }
+]
