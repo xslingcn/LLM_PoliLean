@@ -5,11 +5,16 @@ import argparse
 import torch
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from dotenv import load_dotenv
+
+load_dotenv()
+
+RESPONSE_REPEAT = os.getenv("RESPONSE_REPEAT")
+MAX_NEW_TOKENS = os.getenv("RESPONSE_MAX_NEW_TOKENS")
+PROMPT = os.getenv("RESPONSE_PROMPT")
 
 TEMPLATE_PATH = "response/template.jsonl"
 MODELS_PATH = "test/models.jsonl"
-PROMPT = "Please respond to the following statement: <statement>\nYour response:"
-REPEAT = 5
 DEVICE = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 
@@ -35,7 +40,7 @@ def generate_responses(tokenizer, model, statements):
         output = tokenizer.decode(
             model.generate(
                 **input_ids,
-                max_new_tokens=100,
+                max_new_tokens=MAX_NEW_TOKENS,
                 do_sample=True,
                 pad_token_id=tokenizer.eos_token_id,
             )[0]
@@ -62,7 +67,6 @@ def save_responses(model_name, statements):
 
 
 if __name__ == "__main__":
-
     argParser = argparse.ArgumentParser()
     argParser.add_argument(
         "-m", "--model", help="the language model of interest on HuggingFace"
@@ -103,7 +107,7 @@ if __name__ == "__main__":
             model_pbar.set_description(f"Loading model: {model_info['name']}")
             tokenizer, model = load_model_and_tokenizer(model_info)
             model_pbar.set_description(f"Loading model: {model_info['name']}")
-            for _ in tqdm(range(REPEAT), desc="Iterating generations"):
+            for _ in tqdm(range(RESPONSE_REPEAT), desc="Iterating generations"):
                 responses = generate_responses(tokenizer, model, statements)
 
                 for statement, response in zip(statements, responses):
