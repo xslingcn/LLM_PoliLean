@@ -11,7 +11,7 @@ load_dotenv()
 PROMPT = os.getenv("RESPONSE_PROMPT")
 RESPONSE_REPEAT = int(os.getenv("RESPONSE_REPEAT"))
 
-TEMPLATE_PATH = "test/template.jsonl"
+TEMPLATE_PATH = "response/template.jsonl"
 
 
 platforms = {
@@ -65,7 +65,8 @@ if __name__ == "__main__":
     for platform, info in platforms_to_process.items():
         models_to_process = [model] if model else info["models"]
         for mdl in models_to_process:
-            for statement in tqdm(statements, desc=f"{platform}: Generating {mdl}"):
-                input_text = PROMPT.replace("<statement>", statement["statement"])
-                statement["response"] = info["generate_func"](mdl, input_text)
-            save_responses(mdl, statements)
+            for _ in tqdm(range(RESPONSE_REPEAT), desc="Iterating generations"):
+                for statement in tqdm(statements, desc=f"{platform}: Generating {mdl}"):
+                    input_text = PROMPT.replace("<statement>", statement["statement"])
+                    statement["response"] = info["generate_func"](mdl, input_text)
+                save_responses(mdl, statements)
