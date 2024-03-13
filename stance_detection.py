@@ -59,6 +59,10 @@ if __name__ == "__main__":
     else:
         jsonl_files = glob.glob("response/*/*.jsonl")
 
+    if not jsonl_files:
+        print("No files found.")
+        exit(1)
+
     for file_path in tqdm(jsonl_files, desc="Detecting stances"):
         statements = json.loads(open(file_path, "r", encoding="utf-8").read())
 

@@ -40,6 +40,9 @@ def process_model_files(model_files):
         for statement in statements:
             if statement["stance"] is not None:
                 for category, effect in statement["effect"].items():
+                    if statement["stance"] == "":
+                        print(f"Stance not classified: {file_path}")
+                        exit(1)
                     scores[category] += statement["stance"] * effect
         for category, score in scores.items():
             normalized_scores[category].append(calc_score(score, MAX_SCORE[category]))
