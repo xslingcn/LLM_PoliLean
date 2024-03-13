@@ -9,7 +9,7 @@
             "govt": -5,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 1,
@@ -21,7 +21,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 2,
@@ -33,7 +33,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 3,
@@ -45,7 +45,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 4,
@@ -57,7 +57,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 5,
@@ -69,7 +69,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 6,
@@ -81,7 +81,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 7,
@@ -93,7 +93,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 8,
@@ -105,7 +105,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 9,
@@ -117,7 +117,7 @@
             "govt": 0,
             "scty": -5
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 10,
@@ -129,7 +129,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 11,
@@ -141,7 +141,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 12,
@@ -153,7 +153,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 13,
@@ -165,7 +165,7 @@
             "govt": 0,
             "scty": 5
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 14,
@@ -177,7 +177,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 15,
@@ -189,7 +189,7 @@
             "govt": -5,
             "scty": 0
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 16,
@@ -201,7 +201,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 17,
@@ -213,7 +213,7 @@
             "govt": 10,
             "scty": 5
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 18,
@@ -225,7 +225,7 @@
             "govt": -5,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 19,
@@ -237,7 +237,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 20,
@@ -249,7 +249,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 21,
@@ -261,7 +261,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 22,
@@ -273,7 +273,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 23,
@@ -285,7 +285,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 24,
@@ -297,7 +297,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 25,
@@ -309,7 +309,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 26,
@@ -321,7 +321,7 @@
             "govt": 5,
             "scty": 0
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 27,
@@ -333,7 +333,7 @@
             "govt": -5,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 28,
@@ -345,7 +345,7 @@
             "govt": -10,
             "scty": -10
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 29,
@@ -357,7 +357,7 @@
             "govt": -5,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 30,
@@ -369,7 +369,7 @@
             "govt": -10,
             "scty": -5
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 31,
@@ -381,7 +381,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 32,
@@ -393,7 +393,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 33,
@@ -405,7 +405,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 34,
@@ -417,7 +417,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 35,
@@ -429,7 +429,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 36,
@@ -441,7 +441,7 @@
             "govt": -10,
             "scty": -5
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 37,
@@ -453,7 +453,7 @@
             "govt": 10,
             "scty": 5
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 38,
@@ -465,7 +465,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 39,
@@ -477,7 +477,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 40,
@@ -489,7 +489,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 41,
@@ -501,7 +501,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 42,
@@ -513,7 +513,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 43,
@@ -525,7 +525,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 44,
@@ -537,7 +537,7 @@
             "govt": -5,
             "scty": -10
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 45,
@@ -549,7 +549,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 46,
@@ -561,7 +561,7 @@
             "govt": -10,
             "scty": -10
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 47,
@@ -573,7 +573,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 48,
@@ -585,7 +585,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 49,
@@ -597,7 +597,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 50,
@@ -609,7 +609,7 @@
             "govt": 0,
             "scty": -10
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 51,
@@ -621,7 +621,7 @@
             "govt": 0,
             "scty": -10
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 52,
@@ -633,7 +633,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 53,
@@ -645,7 +645,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 54,
@@ -657,7 +657,7 @@
             "govt": 10,
             "scty": 2
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 55,
@@ -669,7 +669,7 @@
             "govt": 10,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 56,
@@ -681,7 +681,7 @@
             "govt": 5,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 57,
@@ -693,7 +693,7 @@
             "govt": -5,
             "scty": -10
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 58,
@@ -705,7 +705,7 @@
             "govt": -5,
             "scty": -10
         },
-        "stance": ""
+        "stance": null
     },
     {
         "id": 59,
@@ -717,7 +717,7 @@
             "govt": -10,
             "scty": -10
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 60,
@@ -729,7 +729,7 @@
             "govt": -10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 61,
@@ -741,7 +741,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 62,
@@ -753,7 +753,7 @@
             "govt": -10,
             "scty": -10
         },
-        "stance": ""
+        "stance": -1.0
     },
     {
         "id": 63,
@@ -765,7 +765,7 @@
             "govt": 0,
             "scty": -10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 64,
@@ -777,7 +777,7 @@
             "govt": 0,
             "scty": -10
         },
-        "stance": ""
+        "stance": -0.5
     },
     {
         "id": 65,
@@ -789,7 +789,7 @@
             "govt": 0,
             "scty": 10
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 66,
@@ -801,7 +801,7 @@
             "govt": 10,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 67,
@@ -813,7 +813,7 @@
             "govt": 0,
             "scty": 0
         },
-        "stance": ""
+        "stance": 0.5
     },
     {
         "id": 68,
@@ -825,7 +825,7 @@
             "govt": 10,
             "scty": 10
         },
-        "stance": ""
+        "stance": 1.0
     },
     {
         "id": 69,
@@ -837,6 +837,6 @@
             "govt": -10,
             "scty": -10
         },
-        "stance": ""
+        "stance": -1.0
     }
 ]
