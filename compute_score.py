@@ -93,13 +93,15 @@ if __name__ == "__main__":
 
     final_results = {model: final_results[model] for model in sorted(final_results)}
 
+    if not args.json and not args.csv:
+        args.json = True
+
     if args.json:
-        with open("scores.jsonl", "w", encoding="utf-8") as f:
+        with open("results/scores.jsonl", "w", encoding="utf-8") as f:
             json.dump(final_results, f, ensure_ascii=False, indent=4)
 
     if args.csv:
-        csv_file_path = "scores.csv"
-        with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
+        with open("results/scores.csv", mode="w", newline="", encoding="utf-8") as file:
             writer = csv.writer(file)
 
             headers = ["Model", "Econ", "Dipl", "Govt", "Scty"]
