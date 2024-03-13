@@ -11,6 +11,8 @@ RESPONSE_PROMPT = os.getenv("RESPONSE_PROMPT")
 API_KEY = os.getenv("MISTRAL_API_KEY")
 ENDPOINT = os.getenv("MISTRAL_ENDPOINT")
 
+MODELS = ["mistral-small-2402", "mistral-medium-2312", "mistral-large-2402"]
+
 
 def generate_response(model, input_text):
     headers = {
@@ -32,5 +34,6 @@ def generate_response(model, input_text):
         return generated_response.strip()
     else:
         print(f"Error: {response.status_code}, data: {response_data}")
+        print("Retrying in 5 seconds...")
         time.sleep(5)
         return generate_response(model, input_text)

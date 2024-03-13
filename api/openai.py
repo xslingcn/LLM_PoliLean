@@ -11,6 +11,8 @@ API_KEY = os.getenv("OPENAI_API_KEY")
 ENDPOINT = os.getenv("OPENAI_ENDPOINT")
 STANCE_PROMPT = os.getenv("STANCE_PROMPT")
 
+MODELS = ["gpt-3.5-turbo-0125", "gpt-4-0125-preview"]
+
 
 def generate_response(model, input_text):
     headers = {
@@ -32,6 +34,7 @@ def generate_response(model, input_text):
         return generated_response.strip()
     else:
         print(f"Error: {response.status_code}, data: {response_data}")
+        print("Retrying in 5 seconds...")
         time.sleep(5)
         return generate_response(model, input_text)
 
@@ -57,5 +60,6 @@ def stance_detection(query):
         return stances
     else:
         print(f"Error: {response.status_code}, data: {response_data}")
+        print("Retrying in 5 seconds...")
         time.sleep(5)
         return stance_detection(query)

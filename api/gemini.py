@@ -10,6 +10,8 @@ RESPONSE_PROMPT = os.getenv("RESPONSE_PROMPT")
 API_KEY = os.getenv("GEMINI_API_KEY")
 ENDPOINT = os.getenv("GEMINI_ENDPOINT")
 
+MODELS = ["gemini-pro"]  # February 2024 version
+
 
 def generate_response(model, input_text):
     headers = {
@@ -39,5 +41,6 @@ def generate_response(model, input_text):
         return generated_response.strip()
     else:
         print(f"Error: {response.status_code}, data: {response_data}")
+        print("Retrying in 5 seconds...")
         time.sleep(5)
         return generate_response(model, input_text)

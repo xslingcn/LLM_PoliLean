@@ -11,6 +11,8 @@ RESPONSE_PROMPT = os.getenv("RESPONSE_PROMPT")
 API_KEY = os.getenv("CLAUDE_API_KEY")
 ENDPOINT = os.getenv("CLAUDE_ENDPOINT")
 
+MODELS = ["claude-3-opus-20240229", "claude-3-sonnet-20240229"]
+
 
 def generate_response(model, input_text):
     headers = {
@@ -33,5 +35,6 @@ def generate_response(model, input_text):
         return generated_response.strip()
     else:
         print(f"Error: {response.status_code}, data: {response_data}")
+        print("Retrying in 5 seconds...")
         time.sleep(5)
         return generate_response(model, input_text)
