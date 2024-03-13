@@ -1,8 +1,9 @@
 import glob
 import json
 import os
-from tqdm import tqdm
+import argparse
 import csv
+from tqdm import tqdm
 
 TEMPLATE_PATH = "response/template.jsonl"
 
@@ -52,32 +53,58 @@ def process_model_files(model_files):
 
 
 if __name__ == "__main__":
+    argParser = argparse.ArgumentParser(description="Compute PoliLean scores.")
+    argParser.add_argument(
+        "-s",
+        "--suffix",
+        default="",
+        help="the suffix of the file names to be processed. If not specified, all `.jsonl` files will be processed.",
+    )
+    argParser.add_argument(
+        "-j",
+        "--json",
+        action="store_true",
+        help="whether to save the results to a JSON file",
+    )
+    argParser.add_argument(
+        "-c",
+        "--csv",
+        action="store_true",
+        help="whether to save the results to a CSV file, default to False",
+    )
+    args = argParser.parse_args()
+
     model_names = list(
         set(
             [
-                os.path.basename(os.path.dirname(f))
-                for f in glob.glob("response/*/*_stance.jsonl")
+                os.path.basename(os.path.normpath(folder))
+                for folder in glob.glob("response/*/")
             ]
         )
     )
     final_results = {}
     for model in tqdm(model_names, desc="Processing models"):
-        model_files = glob.glob(f"response/{model}/*_stance.jsonl")
+        model_files = glob.glob(f"response/{model}/*{args.suffix}.jsonl")
         model_score = process_model_files(model_files)
         final_results[model] = model_score
 
     final_results = {model: final_results[model] for model in sorted(final_results)}
-    with open("scores.jsonl", "w", encoding="utf-8") as f:
-        json.dump(final_results, f, ensure_ascii=False, indent=4)
 
-    csv_file_path = "scores.csv"
-    with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.writer(file)
+    if args.json:
+        with open("scores.jsonl", "w", encoding="utf-8") as f:
+            json.dump(final_results, f, ensure_ascii=False, indent=4)
 
-        headers = ["Model", "Econ", "Dipl", "Govt", "Scty"]
-        writer.writerow(headers)
+    if args.csv:
+        csv_file_path = "scores.csv"
+        with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
+            writer = csv.writer(file)
 
-        for model, scores in final_results.items():
-            row = [model]
-            row.extend([scores["econ"], scores["dipl"], scores["govt"], scores["scty"]])
-            writer.writerow(row)
+            headers = ["Model", "Econ", "Dipl", "Govt", "Scty"]
+            writer.writerow(headers)
+
+            for model, scores in final_results.items():
+                row = [model]
+                row.extend(
+                    [scores["econ"], scores["dipl"], scores["govt"], scores["scty"]]
+                )
+                writer.writerow(row)
