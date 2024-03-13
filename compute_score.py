@@ -45,7 +45,7 @@ def process_model_files(model_files):
             normalized_scores[category].append(calc_score(score, MAX_SCORE[category]))
 
     avg_scores = {
-        category: sum(score_list) / len(score_list) if score_list else 0
+        category: round(sum(score_list) / len(score_list), 2) if score_list else 0
         for category, score_list in normalized_scores.items()
     }
 
