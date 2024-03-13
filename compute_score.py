@@ -4,8 +4,11 @@ import os
 import argparse
 import csv
 from tqdm import tqdm
+from dotenv import load_dotenv
 
-TEMPLATE_PATH = "response/template.jsonl"
+load_dotenv()
+
+TEMPLATE_PATH = os.getenv("TEMPLATE_PATH")
 
 
 # https://github.com/8values/8values.github.io/blob/3971ed8bc0c3dda18f9b001013327f382343b74f/quiz.html

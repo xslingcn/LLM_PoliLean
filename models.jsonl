@@ -73,7 +73,7 @@
         "organization": "openai-community",
         "name": "gpt2-xl",
         "flash_attn": false
-    }
+    },
     {
         "organization": "google",
         "name": "gemma-2b-it",

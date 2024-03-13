@@ -10,8 +10,7 @@ load_dotenv()
 
 PROMPT = os.getenv("RESPONSE_PROMPT")
 RESPONSE_REPEAT = int(os.getenv("RESPONSE_REPEAT"))
-
-TEMPLATE_PATH = "response/template.jsonl"
+TEMPLATE_PATH = os.getenv("TEMPLATE_PATH")
 
 
 platforms = {

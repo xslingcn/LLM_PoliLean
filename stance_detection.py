@@ -9,8 +9,7 @@ from api import openai
 load_dotenv()
 
 PROMPT = os.getenv("STANCE_PROMPT")
-
-TEMPLATE_PATH = "response/template.jsonl"
+TEMPLATE_PATH = os.getenv("TEMPLATE_PATH")
 
 
 def prepare_input(statements):
