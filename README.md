@@ -1,5 +1,5 @@
 # LLM PoliLean
-This tool is designed to test Large Language Models for political leanings. The integrated questionnaire and score computing is according to [8 Values](https://github.com/8values/8values.github.io).
+This tool is designed to test Large Language Models for political leanings. The integrated questionnaire and score computing is according to [8 Values](https://github.com/8values/8values.github.io). 
 
 ## Usage
 ### 1. Prepare Environment
@@ -94,6 +94,9 @@ python compute_score.py [--suffix <file_suffix>] [--json] [--csv]
 - `-j`, `--json`: Enables saving the computed scores and results to a JSON file. 
 - `-c`, `--csv`: Enables saving the computed scores and results to a CSV file. 
 > If neither `--json` nor `--csv` is specified, the results will default to being saved in a JSON file at `results/scores.jsonl`.
+
+## Credits
+I greatly appreciate the amazing work by Shangbin et al. in [***From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models***](https://arxiv.org/abs/2305.08283) that largely inspired this project.
 
 ## License
 This project is open-sourced under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) License. Feel free to use, modify, and distribute it as you see fit.
